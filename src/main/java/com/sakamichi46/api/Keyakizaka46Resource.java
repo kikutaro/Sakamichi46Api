@@ -18,16 +18,16 @@ import javax.ws.rs.Path;
  */
 @Startup
 @Singleton
-@Path("nogizaka46")
-public class Nogizaka46Resource extends AbstractSakamichi46Resource {
+@Path("keyakizaka46")
+public class Keyakizaka46Resource extends AbstractSakamichi46Resource {
     
     @PostConstruct
     @Override
     public void init() {
         try {
-            memberMap = mapper.readValue(getClass().getClassLoader().getResource("Nogizaka46.json"), new TypeReference<Map<String, Member>>() {});
+            memberMap = mapper.readValue(getClass().getClassLoader().getResource("Keyakizaka46.json"), new TypeReference<Map<String, Member>>() {});
         } catch (IOException ex) {
-            Logger.getLogger(Nogizaka46Resource.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(Keyakizaka46Resource.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 }

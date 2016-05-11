@@ -31,9 +31,16 @@ public abstract class AbstractSakamichi46Resource {
     }
     
     @GET
-    @Path("all")
+    @Path("profile/all")
     @Produces(MediaType.APPLICATION_JSON)
-    public List<Member> getAll() {
+    public List<Member> getAllProfiles() {
         return memberMap.values().stream().collect(Collectors.toList());
-    }  
+    }
+    
+    @GET
+    @Path("member/count")
+    @Produces(MediaType.TEXT_PLAIN)
+    public int getMemberCount() {
+        return memberMap.values().size();
+    }
 }

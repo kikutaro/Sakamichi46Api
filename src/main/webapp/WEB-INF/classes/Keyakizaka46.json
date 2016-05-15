@@ -32,7 +32,7 @@
         "birthday": "1998-6-4",
         "bloodType": "O",
         "constellation": "ふたご座",
-        "profilePhotoUri": "http://www.keyakizaka46.co/img/14/orig/k46o/201/604/201604-05__400_320_102400_jpg.jpg"
+        "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-05__400_320_102400_jpg.jpg"
     },
     "koikeminami" : {
         "name": "小池美波",
@@ -139,12 +139,5 @@
         "bloodType": "O",
         "constellation": "しし座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-21__400_320_102400_jpg.jpg"
-    },
-    "nagahamaneru" : {
-        "name": "長濱ねる",
-        "birthday": "1998-9-4",
-        "bloodType": "O",
-        "constellation": "おとめ座",
-        "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-22__400_320_102400_jpg.jpg"
     }
 }

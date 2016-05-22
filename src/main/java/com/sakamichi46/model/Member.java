@@ -15,4 +15,5 @@ public class Member {
     private String bloodType;
     private String constellation;
     private String profilePhotoUri;
+    private String blogUri;
 }

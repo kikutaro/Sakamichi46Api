@@ -4,126 +4,144 @@
         "birthday": "1993-8-20",
         "bloodType": "B",
         "constellation": "しし座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/akimotomanatsu_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/akimotomanatsu_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/manatsu.akimoto/smph/"
     },
     "ikutaerika" : {
         "name": "生田絵梨花",
         "birthday": "1997-1-22",
         "bloodType": "A",
         "constellation": "みずがめ座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/ikutaerika_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/ikutaerika_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/erika.ikuta/smph/"
     },
     "ikomarina" : {
         "name": "生駒里奈",
         "birthday": "1995-12-29",
         "bloodType": "AB",
         "constellation": "やぎ座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/ikomarina_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/ikomarina_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/rina.ikoma/smph/"
     },
     "itoukarin" : {
         "name": "伊藤かりん",
         "birthday": "1993-5-26",
         "bloodType": "O",
         "constellation": "ふたご座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/itoukarin_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/itoukarin_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/karin.itou/smph/"
     },
     "itoujunna" : {
         "name": "伊藤純奈",
         "birthday": "1998-11-30",
         "bloodType": "A",
         "constellation": "いて座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/itoujunna_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/itoujunna_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/junna.itou/smph/"
     },
     "itoumarika" : {
         "name": "伊藤万理華",
         "birthday": "1996-2-20",
         "bloodType": "O",
         "constellation": "うお座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/itoumarika_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/itoumarika_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/marika.ito/smph/"
     },
     "inouesayuri" : {
         "name": "井上小百合",
         "birthday": "1994-12-14",
         "bloodType": "B",
         "constellation": "いて座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/inouesayuri_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/inouesayuri_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/sayuri.inoue/smph/"
     },
     "etoumisa" : {
         "name": "衛藤美彩",
         "birthday": "1993-1-4",
         "bloodType": "AB",
         "constellation": "やぎ座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/etoumisa_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/etoumisa_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/misa.eto/smph/"
     },
     "kawagohina" : {
         "name": "川後陽菜",
         "birthday": "1998-3-22",
         "bloodType": "O",
         "constellation": "おひつじ座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/kawagohina_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/kawagohina_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/hina.kawago/smph/"
     },
     "kawamuramahiro" : {
         "name": "川村真洋",
         "birthday": "1995-7-23",
         "bloodType": "A",
         "constellation": "しし座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/kawamuramahiro_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/kawamuramahiro_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/mahiro.kawamura/smph/"
     },
     "kitanohinako" : {
         "name": "北野日奈子",
         "birthday": "1996-7-17",
         "bloodType": "O",
         "constellation": "かに座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/kitanohinako_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/kitanohinako_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/hinako.kitano/smph/"
     },
     "saitouasuka" : {
         "name": "齋藤飛鳥",
         "birthday": "1998-8-10",
         "bloodType": "O",
         "constellation": "しし座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/saitouasuka_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/saitouasuka_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/asuka.saito/smph/"
     },
     "saitouchiharu" : {
         "name": "斎藤ちはる",
         "birthday": "1997-2-17",
         "bloodType": "A",
         "constellation": "みずがめ座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/saitouchiharu_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/saitouchiharu_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/chiharu.saito/smph/"
     },
     "saitouyuuri" : {
         "name": "斉藤優里",
         "birthday": "1993-7-20",
         "bloodType": "O",
         "constellation": "かに座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/saitouyuuri_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/saitouyuuri_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/yuuri.saito/smph/"
     },
     "sagaraiori" : {
         "name": "相楽伊織",
         "birthday": "1997-11-26",
         "bloodType": "O",
         "constellation": "いて座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/sagaraiori_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/sagaraiori_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/iori.sagara/smph/"
     },
     "sakuraireika" : {
         "name": "桜井玲香",
         "birthday": "1994-5-16",
         "bloodType": "A",
         "constellation": "おうし座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/sakuraireika_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/sakuraireika_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/reika.sakurai/smph/"
     },
     "sasakikotoko" : {
         "name": "佐々木琴子",
         "birthday": "1998-8-28",
         "bloodType": "A",
         "constellation": "おとめ座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/sasakikotoko_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/sasakikotoko_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/kotoko.sasaki/smph/"
     },
     "shiraishimai" : {
         "name": "白石麻衣",
         "birthday": "1992-8-20",
         "bloodType": "A",
         "constellation": "しし座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/shiraishimai_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/shiraishimai_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/mai.shiraishi/smph/"
     }
     ,
     "shinuchimai" : {
@@ -131,125 +149,143 @@
         "birthday": "1992-1-22",
         "bloodType": "B",
         "constellation": "みずがめ座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/shinuchimai_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/shinuchimai_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/mai.shinuchi/smph/"
     },
     "suzukiayane" : {
         "name": "鈴木絢音",
         "birthday": "1999-3-5",
         "bloodType": "O",
         "constellation": "うお座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/suzukiayane_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/suzukiayane_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/ayane.suzuki/smph/"
     },
     "takayamakazumi" : {
         "name": "高山一実",
         "birthday": "1994-2-8",
         "bloodType": "A",
         "constellation": "みずがめ座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/takayamakazumi_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/takayamakazumi_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/kazumi.takayama/smph/"
     },
     "teradaranze" : {
         "name": "寺田蘭世",
         "birthday": "1998-9-23",
         "bloodType": "不明",
         "constellation": "てんびん座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/teradaranze_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/teradaranze_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/ranze.terada/smph/"
     },
     "nakadakana" : {
         "name": "中田花奈",
         "birthday": "1994-8-6",
         "bloodType": "A",
         "constellation": "しし座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/nakadakana_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/nakadakana_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/kana.nakada/smph/"
     },
     "nakamotohimeka" : {
         "name": "中元日芽香",
         "birthday": "1996-4-13",
         "bloodType": "O",
         "constellation": "おひつじ座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/nakamotohimeka_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/nakamotohimeka_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/himeka.nakamoto/smph/"
     },
     "nishinonanase" : {
         "name": "西野七瀬",
         "birthday": "1994-5-25",
         "bloodType": "O",
         "constellation": "ふたご座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/nishinonanase_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/nishinonanase_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/nanase.nishino/smph/"
     },
     "noujouami" : {
         "name": "能條愛未",
         "birthday": "1994-10-18",
         "bloodType": "A",
         "constellation": "てんびん座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/noujouami_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/noujouami_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/ami.noujo/smph/"
     },
     "hashimotonanami" : {
         "name": "橋本奈々未",
         "birthday": "1993-2-20",
         "bloodType": "B",
         "constellation": "うお座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/hashimotonanami_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/hashimotonanami_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/nanami.hashimoto/smph/"
     },
     "higuchihina" : {
         "name": "樋口日奈",
         "birthday": "1998-1-31",
         "bloodType": "A",
         "constellation": "みずがめ座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/higuchihina_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/higuchihina_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/hina.higuchi/smph/"
     },
     "fukagawamai" : {
         "name": "深川麻衣",
         "birthday": "1991-3-29",
         "bloodType": "O",
         "constellation": "おひつじ座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/fukagawamai_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/fukagawamai_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/mai.fukagawa/smph/"
     },
     "hoshinominami" : {
         "name": "星野みなみ",
         "birthday": "1998-2-6",
         "bloodType": "B",
         "constellation": "みずがめ座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/hoshinominami_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/hoshinominami_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/minami.hoshino/smph/"
     },
     "horimiona" : {
         "name": "堀未央奈",
         "birthday": "1996-10-15",
         "bloodType": "O",
         "constellation": "てんびん座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/horimiona_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/horimiona_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/miona.hori/smph/"
     },
     "matsumurasayuri" : {
         "name": "松村沙友理",
         "birthday": "1992-8-27",
         "bloodType": "B",
         "constellation": "おとめ座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/matsumurasayuri_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/matsumurasayuri_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/sayuri.matsumura/smph/"
     },
     "yamazakirena" : {
         "name": "山崎怜奈",
         "birthday": "1997-5-21",
         "bloodType": "B",
         "constellation": "ふたご座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/yamazakirena_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/yamazakirena_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/rena.yamazaki/smph/"
     },
     "wakatsukiyumi" : {
         "name": "若月佑美",
         "birthday": "1994-6-27",
         "bloodType": "O",
         "constellation": "かに座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/wakatsukiyumi_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/wakatsukiyumi_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/yumi.wakatsuki/smph/"
     },
     "watanabemiria" : {
         "name": "渡辺みり愛",
         "birthday": "1999-11-1",
         "bloodType": "O",
         "constellation": "さそり座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/watanabemiria_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/watanabemiria_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/miria.watanabe/smph/"
     },
     "wadamaaya" : {
         "name": "和田まあや",
         "birthday": "1998-4-23",
         "bloodType": "O",
         "constellation": "おうし座",
-        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/wadamaaya_prof.jpg"
+        "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/wadamaaya_prof.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/maaya.wada/smph/"
     }
 }

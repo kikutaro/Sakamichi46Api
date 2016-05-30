@@ -43,4 +43,6 @@ public abstract class AbstractSakamichi46Resource {
     public int getMemberCount() {
         return memberMap.values().size();
     }
+    
+    public abstract String getBlogUrl();
 }

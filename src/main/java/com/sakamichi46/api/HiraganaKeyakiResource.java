@@ -41,4 +41,9 @@ public class HiraganaKeyakiResource extends AbstractSakamichi46Resource {
     public String getBlogUrl() {
         return "www.keyakizaka46.com/";
     }
+
+    @Override
+    public String getGoodsUrl() {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
 }

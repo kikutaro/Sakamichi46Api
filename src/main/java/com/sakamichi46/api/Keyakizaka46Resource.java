@@ -41,4 +41,12 @@ public class Keyakizaka46Resource extends AbstractSakamichi46Resource {
     public String getBlogUrl() {
         return "www.keyakizaka46.com/";
     }
+
+    @GET
+    @Path("goods")
+    @Produces(MediaType.TEXT_PLAIN)
+    @Override
+    public String getGoodsUrl() {
+        return "https://official-goods-store.jp/keyakizaka46/";
+    }
 }

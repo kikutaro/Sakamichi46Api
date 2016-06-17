@@ -34,14 +34,18 @@ public abstract class AbstractSakamichi46Resource {
     @Path("profile")
     @Produces(MediaType.APPLICATION_JSON)
     public List<Member> getAllProfiles() {
-        return memberMap.values().stream().collect(Collectors.toList());
+        return memberMap.values().stream()
+                .filter(m -> m.getGraduateDate() == null)
+                .collect(Collectors.toList());
     }
     
     @GET
     @Path("count")
     @Produces(MediaType.TEXT_PLAIN)
-    public int getMemberCount() {
-        return memberMap.values().size();
+    public long getMemberCount() {
+        return memberMap.values().stream()
+                .filter(m -> m.getGraduateDate() == null)
+                .count();
     }
     
     public abstract String getBlogUrl();

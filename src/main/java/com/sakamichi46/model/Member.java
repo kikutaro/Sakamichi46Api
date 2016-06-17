@@ -1,6 +1,7 @@
 package com.sakamichi46.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonInclude;
 import java.util.Date;
 import lombok.Getter;
 import lombok.Setter;
@@ -18,4 +19,7 @@ public class Member {
     private String constellation;
     private String profilePhotoUri;
     private String blogUri;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd")
+    private Date graduateDate;
 }

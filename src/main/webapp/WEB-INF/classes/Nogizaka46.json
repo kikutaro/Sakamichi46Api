@@ -230,7 +230,8 @@
         "bloodType": "O",
         "constellation": "おひつじ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/fukagawamai_prof.jpg",
-        "blogUri" : "http://blog.nogizaka46.com/mai.fukagawa/smph/"
+        "blogUri" : "http://blog.nogizaka46.com/mai.fukagawa/smph/",
+        "graduateDate" : "2016-6-16"
     },
     "hoshinominami" : {
         "name": "星野みなみ",

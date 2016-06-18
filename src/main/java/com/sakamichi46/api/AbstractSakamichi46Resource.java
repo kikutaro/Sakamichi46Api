@@ -50,5 +50,9 @@ public abstract class AbstractSakamichi46Resource {
     
     public abstract String getBlogUrl();
     
+    public abstract String getBlogMobileUrl();
+    
     public abstract String getGoodsUrl();
+    
+    public abstract String getGoodsMobileUrl();
 }

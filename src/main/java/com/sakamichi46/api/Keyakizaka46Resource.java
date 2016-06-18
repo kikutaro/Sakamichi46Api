@@ -41,6 +41,15 @@ public class Keyakizaka46Resource extends AbstractSakamichi46Resource {
     public String getBlogUrl() {
         return "www.keyakizaka46.com/";
     }
+    
+    @GET
+    @Path("blog/mobile")
+    @Produces(MediaType.TEXT_PLAIN)
+    @Override
+    public String getBlogMobileUrl() {
+        //same url because of responsive site
+        return getBlogUrl();
+    }
 
     @GET
     @Path("goods")
@@ -48,5 +57,14 @@ public class Keyakizaka46Resource extends AbstractSakamichi46Resource {
     @Override
     public String getGoodsUrl() {
         return "https://official-goods-store.jp/keyakizaka46/";
+    }
+
+    @GET
+    @Path("goods/mobile")
+    @Produces(MediaType.TEXT_PLAIN)
+    @Override
+    public String getGoodsMobileUrl() {
+        //same url because of responsive site
+        return getGoodsUrl();
     }
 }

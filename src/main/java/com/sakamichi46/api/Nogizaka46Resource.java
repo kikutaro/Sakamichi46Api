@@ -41,12 +41,28 @@ public class Nogizaka46Resource extends AbstractSakamichi46Resource {
     public String getBlogUrl() {
         return "http://www.nogizaka46.com/";
     }
+    
+    @GET
+    @Path("blog/mobile")
+    @Produces(MediaType.TEXT_PLAIN)
+    @Override
+    public String getBlogMobileUrl() {
+        return "http://www.nogizaka46.com/smph/";
+    }
 
     @GET
     @Path("goods")
     @Produces(MediaType.TEXT_PLAIN)
     @Override
     public String getGoodsUrl() {
+        return "http://www.nogizaka46shop.com/";
+    }
+
+    @GET
+    @Path("goods/mobile")
+    @Produces(MediaType.TEXT_PLAIN)
+    @Override
+    public String getGoodsMobileUrl() {
         return "http://www.nogizaka46shop.com/msp/";
     }
 }

@@ -19,6 +19,7 @@ public class Member {
     private String constellation;
     private String profilePhotoUri;
     private String blogUri;
+    private String goodsUri;
     @JsonInclude(JsonInclude.Include.NON_NULL)
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd")
     private Date graduateDate;

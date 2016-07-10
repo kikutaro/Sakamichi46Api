@@ -3,14 +3,19 @@ package com.sakamichi46.api;
 import com.sakamichi46.config.ApplicationConfig;
 import com.sakamichi46.model.Member;
 import java.io.File;
-import javax.inject.Inject;
+import java.net.MalformedURLException;
+import java.net.URL;
+import javax.ws.rs.core.Response;
 import static org.hamcrest.CoreMatchers.is;
 import org.jboss.arquillian.container.test.api.Deployment;
+import org.jboss.arquillian.container.test.api.RunAsClient;
 import org.jboss.arquillian.junit.Arquillian;
+import org.jboss.arquillian.test.api.ArquillianResource;
+import org.jboss.resteasy.client.jaxrs.ResteasyClientBuilder;
 import org.jboss.shrinkwrap.api.ShrinkWrap;
 import org.jboss.shrinkwrap.api.spec.JavaArchive;
+import static org.junit.Assert.assertThat;
 import org.junit.Test;
-import static org.junit.Assert.*;
 import org.junit.runner.RunWith;
 
 /**
@@ -36,11 +41,13 @@ public class Nogizaka46ResourceTest {
                 .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Nogizaka46.json"));
     }
     
-    @Inject
-    Nogizaka46Resource nogizaka;
+    @ArquillianResource
+    private URL base;
     
     @Test
-    public void Nogizaka46OfficialBlogUrlTest() {
-        assertThat(nogizaka.getBlogUrl(), is("http://www.nogizaka46.com/"));                
+    @RunAsClient
+    public void Nogizaka46OfficialBlogUrlTest() throws MalformedURLException {
+        Response get = ResteasyClientBuilder.newBuilder().build().target(new URL(base, "api/nogizaka46/blog").toExternalForm()).request().get();
+        assertThat(get.readEntity(String.class), is("http://www.nogizaka46.com/"));            
     }
 }

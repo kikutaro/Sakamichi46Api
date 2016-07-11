@@ -47,7 +47,28 @@ public class Nogizaka46ResourceTest {
     @Test
     @RunAsClient
     public void Nogizaka46OfficialBlogUrlTest() throws MalformedURLException {
-        Response get = ResteasyClientBuilder.newBuilder().build().target(new URL(base, "api/nogizaka46/blog").toExternalForm()).request().get();
-        assertThat(get.readEntity(String.class), is("http://www.nogizaka46.com/"));            
+        Response res = ResteasyClientBuilder.newBuilder().build().target(new URL(base, "api/nogizaka46/blog").toExternalForm()).request().get();
+        assertThat(res.readEntity(String.class), is("http://www.nogizaka46.com/"));
+    }
+    
+    @Test
+    @RunAsClient
+    public void Nogizaka46OfficialBlogMobileUrlTest() throws MalformedURLException {
+        Response get = ResteasyClientBuilder.newBuilder().build().target(new URL(base, "api/nogizaka46/blog/mobile").toExternalForm()).request().get();
+        assertThat(get.readEntity(String.class), is("http://www.nogizaka46.com/smph/"));
+    }
+    
+    @Test
+    @RunAsClient
+    public void Nogizaka46OfficialGoodsUrlTest() throws MalformedURLException {
+        Response get = ResteasyClientBuilder.newBuilder().build().target(new URL(base, "api/nogizaka46/goods").toExternalForm()).request().get();
+        assertThat(get.readEntity(String.class), is("http://www.nogizaka46shop.com/"));
+    }
+    
+    @Test
+    @RunAsClient
+    public void Nogizaka46OfficialGoodsMobileUrlTest() throws MalformedURLException {
+        Response get = ResteasyClientBuilder.newBuilder().build().target(new URL(base, "api/nogizaka46/goods/mobile").toExternalForm()).request().get();
+        assertThat(get.readEntity(String.class), is("http://www.nogizaka46shop.com/msp/"));
     }
 }

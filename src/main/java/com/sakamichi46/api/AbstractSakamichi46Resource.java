@@ -21,18 +21,20 @@ public abstract class AbstractSakamichi46Resource {
     
     protected Map<String, Member> memberMap;
     
+    protected static final String CHARSET_UTF8 = ";charset=utf-8";
+    
     public abstract void init();
     
     @GET
     @Path("profile/{name}")
-    @Produces(MediaType.APPLICATION_JSON)
+    @Produces(MediaType.APPLICATION_JSON  + CHARSET_UTF8)
     public Member getProfile(@PathParam("name") String name) {
         return memberMap.get(name);
     }
     
     @GET
     @Path("profile")
-    @Produces(MediaType.APPLICATION_JSON)
+    @Produces(MediaType.APPLICATION_JSON + CHARSET_UTF8)
     public List<Member> getAllProfiles() {
         return memberMap.values().stream()
                 .filter(m -> m.getGraduateDate() == null)
@@ -41,7 +43,7 @@ public abstract class AbstractSakamichi46Resource {
     
     @GET
     @Path("count")
-    @Produces(MediaType.TEXT_PLAIN)
+    @Produces(MediaType.TEXT_PLAIN + CHARSET_UTF8)
     public long getMemberCount() {
         return memberMap.values().stream()
                 .filter(m -> m.getGraduateDate() == null)

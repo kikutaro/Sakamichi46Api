@@ -5,6 +5,9 @@ import com.sakamichi46.model.Member;
 import java.io.File;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.time.LocalDate;
+import java.time.ZoneId;
+import java.time.format.DateTimeFormatter;
 import javax.ws.rs.core.Response;
 import static org.hamcrest.CoreMatchers.is;
 import org.jboss.arquillian.container.test.api.Deployment;
@@ -70,5 +73,23 @@ public class Nogizaka46ResourceTest {
     public void Nogizaka46OfficialGoodsMobileUrlTest() throws MalformedURLException {
         Response get = ResteasyClientBuilder.newBuilder().build().target(new URL(base, "api/nogizaka46/goods/mobile").toExternalForm()).request().get();
         assertThat(get.readEntity(String.class), is("http://www.nogizaka46shop.com/msp/"));
+    }
+    
+    @Test
+    @RunAsClient
+    public void Nogizaka46MemberProfileUrlTest() throws MalformedURLException {
+        Member maiShiraishi = ResteasyClientBuilder.newBuilder().build()
+                .target(new URL(base, "api/nogizaka46/profile/shiraishimai").toExternalForm())
+                .request().get().readEntity(Member.class);
+        assertThat(maiShiraishi.getName(), is("白石麻衣"));
+        DateTimeFormatter dateformat = DateTimeFormatter.ofPattern("yyyy/MM/dd");
+        assertThat(
+                maiShiraishi.getBirthday().toInstant().atZone(ZoneId.systemDefault()).toLocalDate().format(dateformat),
+                is(LocalDate.of(1992, 8, 20).format(dateformat)));
+        assertThat(maiShiraishi.getBloodType(), is("A"));
+        assertThat(maiShiraishi.getConstellation(), is("しし座"));
+        assertThat(maiShiraishi.getProfilePhotoUri(), is("http://img.nogizaka46.com/www/member/img/shiraishimai_prof.jpg"));
+        assertThat(maiShiraishi.getBlogUri(), is("http://blog.nogizaka46.com/mai.shiraishi/smph/"));
+        assertThat(maiShiraishi.getGoodsUri(), is("http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=45"));
     }
 }

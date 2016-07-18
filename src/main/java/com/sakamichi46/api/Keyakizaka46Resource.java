@@ -67,4 +67,12 @@ public class Keyakizaka46Resource extends AbstractSakamichi46Resource {
         //same url because of responsive site
         return getGoodsUrl();
     }
+    
+    @GET
+    @Path("tweetrank")
+    @Produces(MediaType.TEXT_PLAIN)
+    @Override
+    public String getTwitterRankingUrl() {
+        return "http://46collection.sakamichi46.com/keyakizaka46";
+    }
 }

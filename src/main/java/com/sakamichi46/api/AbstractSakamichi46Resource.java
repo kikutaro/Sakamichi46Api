@@ -57,4 +57,6 @@ public abstract class AbstractSakamichi46Resource {
     public abstract String getGoodsUrl();
     
     public abstract String getGoodsMobileUrl();
+    
+    public abstract String getTwitterRankingUrl();
 }

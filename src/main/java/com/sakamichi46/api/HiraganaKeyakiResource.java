@@ -56,4 +56,9 @@ public class HiraganaKeyakiResource extends AbstractSakamichi46Resource {
     public String getGoodsMobileUrl() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
+
+    @Override
+    public String getTwitterRankingUrl() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }

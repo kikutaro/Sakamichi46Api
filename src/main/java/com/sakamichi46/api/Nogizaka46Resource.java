@@ -65,4 +65,12 @@ public class Nogizaka46Resource extends AbstractSakamichi46Resource {
     public String getGoodsMobileUrl() {
         return "http://www.nogizaka46shop.com/msp/";
     }
+
+    @GET
+    @Path("tweetrank")
+    @Produces(MediaType.TEXT_PLAIN)
+    @Override
+    public String getTwitterRankingUrl() {
+        return "http://46collection.sakamichi46.com/nogizaka46";
+    }
 }

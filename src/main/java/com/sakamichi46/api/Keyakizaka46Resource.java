@@ -39,7 +39,7 @@ public class Keyakizaka46Resource extends AbstractSakamichi46Resource {
     @Produces(MediaType.TEXT_PLAIN)
     @Override
     public String getBlogUrl() {
-        return "www.keyakizaka46.com/";
+        return "http://www.keyakizaka46.com/";
     }
     
     @GET

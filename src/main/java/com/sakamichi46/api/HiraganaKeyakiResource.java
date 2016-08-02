@@ -42,19 +42,30 @@ public class HiraganaKeyakiResource extends AbstractSakamichi46Resource {
         return "www.keyakizaka46.com/";
     }
     
+    @GET
+    @Path("blog/mobile")
+    @Produces(MediaType.TEXT_PLAIN)
     @Override
     public String getBlogMobileUrl() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        //same url because of responsive site
+        return getBlogUrl();
     }
 
+    @GET
+    @Path("goods")
+    @Produces(MediaType.TEXT_PLAIN)
     @Override
     public String getGoodsUrl() {
-        throw new UnsupportedOperationException("Not supported yet.");
+        return "https://official-goods-store.jp/keyakizaka46/";
     }
 
+    @GET
+    @Path("goods/mobile")
+    @Produces(MediaType.TEXT_PLAIN)
     @Override
     public String getGoodsMobileUrl() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        //same url because of responsive site
+        return getGoodsUrl();
     }
 
     @Override

@@ -5,7 +5,7 @@
         "bloodType": "AB",
         "constellation": "さそり座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-23__400_320_102400_jpg.jpg",
-        "blogUri" : "http://www.keyakizaka46.com/mob/arti/artiShw.php?site=k46o&cd=23"
+        "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&ima=0936&cd=member&ct=23"
     },
     "ushiosarina" : {
         "name": "潮紗理菜",
@@ -13,7 +13,7 @@
         "bloodType": "O",
         "constellation": "やぎ座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-24__400_320_102400_jpg.jpg",
-        "blogUri" : "http://www.keyakizaka46.com/mob/arti/artiShw.php?site=k46o&cd=24"
+        "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&ima=0935&cd=member&ct=24"
     },
     "kakizakimemi" : {
         "name": "柿崎芽実",
@@ -21,7 +21,7 @@
         "bloodType": "A",
         "constellation": "いて座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-25__400_320_102400_jpg.jpg",
-        "blogUri" : "http://www.keyakizaka46.com/mob/arti/artiShw.php?site=k46o&cd=25"
+        "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&ima=0936&cd=member&ct=25"
     },
     "kageyamayuuka" : {
         "name": "影山優佳",
@@ -29,7 +29,7 @@
         "bloodType": "O",
         "constellation": "おうし座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-26__400_320_102400_jpg.jpg",
-        "blogUri" : "http://www.keyakizaka46.com/mob/arti/artiShw.php?site=k46o&cd=26"
+        "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&ima=0937&cd=member&ct=26"
     },
     "katoshiho" : {
         "name": "加藤史帆",
@@ -45,7 +45,7 @@
         "bloodType": "A",
         "constellation": "おとめ座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-28__400_320_102400_jpg.jpg",
-        "blogUri" : "http://www.keyakizaka46.com/mob/arti/artiShw.php?site=k46o&cd=28"
+        "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&ima=0937&cd=member&ct=27"
     },
     "sasakikumi" : {
         "name": "佐々木久美",
@@ -53,7 +53,7 @@
         "bloodType": "O",
         "constellation": "みずがめ座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-29__400_320_102400_jpg.jpg",
-        "blogUri" : "http://www.keyakizaka46.com/mob/arti/artiShw.php?site=k46o&cd=29"
+        "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&ima=0937&cd=member&ct=29"
     },
     "sasakimirei" : {
         "name": "佐々木美玲",
@@ -61,7 +61,7 @@
         "bloodType": "O",
         "constellation": "いて座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-30__400_320_102400_jpg.jpg",
-        "blogUri" : "http://www.keyakizaka46.com/mob/arti/artiShw.php?site=k46o&cd=30"
+        "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&ima=0937&cd=member&ct=30"
     },
     "takasemana" : {
         "name": "高瀬愛奈",
@@ -69,7 +69,7 @@
         "bloodType": "A",
         "constellation": "おとめ座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-31__400_320_102400_jpg.jpg",
-        "blogUri" : "http://www.keyakizaka46.com/mob/arti/artiShw.php?site=k46o&cd=31"
+        "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&ima=0938&cd=member&ct=31"
     },
     "takamotoayaka" : {
         "name": "高本彩花",
@@ -77,7 +77,7 @@
         "bloodType": "B",
         "constellation": "さそり座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-32__400_320_102400_jpg.jpg",
-        "blogUri" : "http://www.keyakizaka46.com/mob/arti/artiShw.php?site=k46o&cd=32"
+        "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&ima=0938&cd=member&ct=32"
     },
     "nagahamaneru" : {
         "name": "長濱ねる",
@@ -85,7 +85,7 @@
         "bloodType": "O",
         "constellation": "おとめ座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-22__400_320_102400_jpg.jpg",
-        "blogUri" : "http://www.keyakizaka46.com/mob/arti/artiShw.php?site=k46o&cd=22"
+        "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&ima=0938&cd=member&ct=22"
     },
     "higashimuramei" : {
         "name": "東村芽依",
@@ -93,6 +93,6 @@
         "bloodType": "O",
         "constellation": "おとめ座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-33__400_320_102400_jpg.jpg",
-        "blogUri" : "http://www.keyakizaka46.com/mob/arti/artiShw.php?site=k46o&cd=33"
+        "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&ima=0938&cd=member&ct=33"
     }
 }

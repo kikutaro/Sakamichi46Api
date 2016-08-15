@@ -2,6 +2,7 @@ package com.sakamichi46.api;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.sakamichi46.model.Member;
+import com.sakamichi46.model.Music;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -20,6 +21,8 @@ public abstract class AbstractSakamichi46Resource {
     protected static final ObjectMapper mapper = new ObjectMapper();
     
     protected Map<String, Member> memberMap;
+    
+    protected List<Music> musicList;
     
     protected static final String CHARSET_UTF8 = ";charset=utf-8";
     
@@ -48,6 +51,13 @@ public abstract class AbstractSakamichi46Resource {
         return memberMap.values().stream()
                 .filter(m -> m.getGraduateDate() == null)
                 .count();
+    }
+    
+    @GET
+    @Path("music")
+    @Produces(MediaType.APPLICATION_JSON + CHARSET_UTF8)
+    public List<Music> getAllMusics() {
+        return musicList;
     }
     
     public abstract String getBlogUrl();

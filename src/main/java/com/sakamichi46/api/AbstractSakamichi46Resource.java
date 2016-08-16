@@ -1,10 +1,14 @@
 package com.sakamichi46.api;
 
+import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.sakamichi46.model.Member;
 import com.sakamichi46.model.Music;
+import java.io.IOException;
 import java.util.List;
 import java.util.Map;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import java.util.stream.Collectors;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
@@ -69,4 +73,17 @@ public abstract class AbstractSakamichi46Resource {
     public abstract String getGoodsMobileUrl();
     
     public abstract String getTwitterRankingUrl();
+    
+    public abstract void reload();
+    
+    protected boolean readData(String memberDataSource, String musicDataSource) {
+        try {
+            memberMap = mapper.readValue(getClass().getClassLoader().getResource(memberDataSource), new TypeReference<Map<String, Member>>() {});
+            musicList = mapper.readValue(getClass().getClassLoader().getResource(musicDataSource), new TypeReference<List<Music>>() {});
+        } catch (IOException ex) {
+            Logger.getLogger(Nogizaka46Resource.class.getName()).log(Level.SEVERE, null, ex);
+            return false;
+        }
+        return true;
+    }
 }

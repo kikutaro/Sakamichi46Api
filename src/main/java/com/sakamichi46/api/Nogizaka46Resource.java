@@ -1,14 +1,5 @@
 package com.sakamichi46.api;
 
-import com.fasterxml.jackson.core.type.TypeReference;
-import static com.sakamichi46.api.AbstractSakamichi46Resource.mapper;
-import com.sakamichi46.model.Member;
-import com.sakamichi46.model.Music;
-import java.io.IOException;
-import java.util.List;
-import java.util.Map;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.annotation.PostConstruct;
 import javax.ejb.Singleton;
 import javax.ejb.Startup;
@@ -26,15 +17,14 @@ import javax.ws.rs.core.MediaType;
 @Path("nogizaka46")
 public class Nogizaka46Resource extends AbstractSakamichi46Resource {
     
+    private static final String NOGIZAKA_MEMBER_FILE = "Nogizaka46.json";
+    
+    private static final String NOGIZAKA_MUSIC_FILE = "Nogizaka46Music.json";
+    
     @PostConstruct
     @Override
     public void init() {
-        try {
-            memberMap = mapper.readValue(getClass().getClassLoader().getResource("Nogizaka46.json"), new TypeReference<Map<String, Member>>() {});
-            musicList = mapper.readValue(getClass().getClassLoader().getResource("Nogizaka46Music.json"), new TypeReference<List<Music>>() {});
-        } catch (IOException ex) {
-            Logger.getLogger(Nogizaka46Resource.class.getName()).log(Level.SEVERE, null, ex);
-        }
+        readData(NOGIZAKA_MEMBER_FILE, NOGIZAKA_MUSIC_FILE);
     }
 
     @GET
@@ -75,5 +65,12 @@ public class Nogizaka46Resource extends AbstractSakamichi46Resource {
     @Override
     public String getTwitterRankingUrl() {
         return "http://46collection.sakamichi46.com/nogizaka46";
+    }
+
+    @GET
+    @Path("reload")
+    @Override
+    public void reload() {
+        readData(NOGIZAKA_MEMBER_FILE, NOGIZAKA_MUSIC_FILE);
     }
 }

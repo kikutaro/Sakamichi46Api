@@ -1,12 +1,5 @@
 package com.sakamichi46.api;
 
-import com.fasterxml.jackson.core.type.TypeReference;
-import static com.sakamichi46.api.AbstractSakamichi46Resource.mapper;
-import com.sakamichi46.model.Member;
-import java.io.IOException;
-import java.util.Map;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.annotation.PostConstruct;
 import javax.ejb.Singleton;
 import javax.ejb.Startup;
@@ -24,14 +17,14 @@ import javax.ws.rs.core.MediaType;
 @Path("keyakizaka46")
 public class Keyakizaka46Resource extends AbstractSakamichi46Resource {
     
+    private static final String KEYAKIZAKA_MEMBER_FILE = "Keyakizaka46.json";
+    
+    private static final String KEYAKIZAKA_MUSIC_FILE = "Keyakizaka46Music.json";
+    
     @PostConstruct
     @Override
     public void init() {
-        try {
-            memberMap = mapper.readValue(getClass().getClassLoader().getResource("Keyakizaka46.json"), new TypeReference<Map<String, Member>>() {});
-        } catch (IOException ex) {
-            Logger.getLogger(Keyakizaka46Resource.class.getName()).log(Level.SEVERE, null, ex);
-        }
+        readData(KEYAKIZAKA_MEMBER_FILE, KEYAKIZAKA_MUSIC_FILE);
     }
 
     @GET
@@ -74,5 +67,12 @@ public class Keyakizaka46Resource extends AbstractSakamichi46Resource {
     @Override
     public String getTwitterRankingUrl() {
         return "http://46collection.sakamichi46.com/keyakizaka46";
+    }
+
+    @GET
+    @Path("reload")
+    @Override
+    public void reload() {
+        readData(KEYAKIZAKA_MEMBER_FILE, KEYAKIZAKA_MUSIC_FILE);
     }
 }

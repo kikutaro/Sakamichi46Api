@@ -12,10 +12,11 @@ import lombok.Setter;
 @Getter @Setter
 public class Music {
     private String title;
-    private int releaseNumber;
+    private String releaseVersion;
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd")
     private Date releaseDate;
     private String lyricsUri;
     private String coverPhotoUri;
     private String officialMovieUri;
+    private String type;
 }

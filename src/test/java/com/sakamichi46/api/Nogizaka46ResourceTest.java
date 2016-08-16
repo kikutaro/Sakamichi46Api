@@ -2,6 +2,8 @@ package com.sakamichi46.api;
 
 import com.sakamichi46.config.ApplicationConfig;
 import com.sakamichi46.model.Member;
+import com.sakamichi46.model.Music;
+import com.sakamichi46.model.Single;
 import java.io.File;
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -38,10 +40,15 @@ public class Nogizaka46ResourceTest {
                 .addClass(Nogizaka46Resource.class)
                 .addClass(ApplicationConfig.class)
                 .addClass(Member.class)
+                .addClass(Music.class)
+                .addClass(Single.class)
                 .addAsDirectory("WEB-INF/classes")
                 .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Hiraganakeyaki.json"))
                 .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Keyakizaka46.json"))
-                .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Nogizaka46.json"));
+                .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Nogizaka46.json"))
+                .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Nogizaka46Music.json"))
+                .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Nogizaka46Single.json"))
+                .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Keyakizaka46Music.json"));
     }
     
     @ArquillianResource

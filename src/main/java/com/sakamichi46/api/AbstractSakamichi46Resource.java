@@ -64,6 +64,13 @@ public abstract class AbstractSakamichi46Resource {
         return musicList;
     }
     
+    @GET
+    @Path("music/count")
+    @Produces(MediaType.TEXT_PLAIN + CHARSET_UTF8)
+    public long getMusicCount() {
+        return musicList.size();
+    }
+    
     public abstract String getBlogUrl();
     
     public abstract String getBlogMobileUrl();

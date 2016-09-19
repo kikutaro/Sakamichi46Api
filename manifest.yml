@@ -1,0 +1,4 @@
+applications:
+- name: sakamichi46api-${random-word}
+  buildpack: https://github.com/thomasdarimont/wildfly-buildpack.git
+  path: target/Sakamichi46Api-0.1.war

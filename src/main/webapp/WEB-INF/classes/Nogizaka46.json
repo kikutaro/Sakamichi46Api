@@ -6,7 +6,7 @@
         "constellation": "しし座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/akimotomanatsu_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/manatsu.akimoto/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=62"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/50"
     },
     "ikutaerika" : {
         "name": "生田絵梨花",
@@ -15,7 +15,7 @@
         "constellation": "みずがめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/ikutaerika_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/erika.ikuta/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=61"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/49"
     },
     "ikomarina" : {
         "name": "生駒里奈",
@@ -24,7 +24,7 @@
         "constellation": "やぎ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/ikomarina_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/rina.ikoma/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=60"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/48"
     },
     "itoukarin" : {
         "name": "伊藤かりん",
@@ -33,7 +33,7 @@
         "constellation": "ふたご座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/itoukarin_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/karin.itou/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=59"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/47"
     },
     "itoujunna" : {
         "name": "伊藤純奈",
@@ -42,7 +42,7 @@
         "constellation": "いて座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/itoujunna_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/junna.itou/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=58"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/46"
     },
     "itoumarika" : {
         "name": "伊藤万理華",
@@ -51,7 +51,7 @@
         "constellation": "うお座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/itoumarika_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/marika.ito/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=57"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/45"
     },
     "inouesayuri" : {
         "name": "井上小百合",
@@ -60,7 +60,7 @@
         "constellation": "いて座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/inouesayuri_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/sayuri.inoue/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=56"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/44"
     },
     "etoumisa" : {
         "name": "衛藤美彩",
@@ -69,7 +69,7 @@
         "constellation": "やぎ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/etoumisa_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/misa.eto/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=55"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/43"
     },
     "kawagohina" : {
         "name": "川後陽菜",
@@ -78,7 +78,7 @@
         "constellation": "おひつじ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/kawagohina_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/hina.kawago/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=54"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/42"
     },
     "kawamuramahiro" : {
         "name": "川村真洋",
@@ -87,7 +87,7 @@
         "constellation": "しし座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/kawamuramahiro_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/mahiro.kawamura/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=53"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/41"
     },
     "kitanohinako" : {
         "name": "北野日奈子",
@@ -96,7 +96,7 @@
         "constellation": "かに座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/kitanohinako_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/hinako.kitano/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=52"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/40"
     },
     "saitouasuka" : {
         "name": "齋藤飛鳥",
@@ -105,7 +105,7 @@
         "constellation": "しし座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/saitouasuka_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/asuka.saito/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=51"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/39"
     },
     "saitouchiharu" : {
         "name": "斎藤ちはる",
@@ -114,7 +114,7 @@
         "constellation": "みずがめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/saitouchiharu_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/chiharu.saito/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=50"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/38"
     },
     "saitouyuuri" : {
         "name": "斉藤優里",
@@ -123,7 +123,7 @@
         "constellation": "かに座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/saitouyuuri_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/yuuri.saito/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=49"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/37"
     },
     "sagaraiori" : {
         "name": "相楽伊織",
@@ -132,7 +132,7 @@
         "constellation": "いて座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/sagaraiori_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/iori.sagara/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=48"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/36"
     },
     "sakuraireika" : {
         "name": "桜井玲香",
@@ -141,7 +141,7 @@
         "constellation": "おうし座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/sakuraireika_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/reika.sakurai/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=47"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/35"
     },
     "sasakikotoko" : {
         "name": "佐々木琴子",
@@ -150,7 +150,7 @@
         "constellation": "おとめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/sasakikotoko_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/kotoko.sasaki/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=46"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/34"
     },
     "shiraishimai" : {
         "name": "白石麻衣",
@@ -159,7 +159,7 @@
         "constellation": "しし座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/shiraishimai_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/mai.shiraishi/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=45"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/33"
     }
     ,
     "shinuchimai" : {
@@ -169,7 +169,7 @@
         "constellation": "みずがめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/shinuchimai_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/mai.shinuchi/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=44"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/32"
     },
     "suzukiayane" : {
         "name": "鈴木絢音",
@@ -178,7 +178,7 @@
         "constellation": "うお座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/suzukiayane_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/ayane.suzuki/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=43"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/31"
     },
     "takayamakazumi" : {
         "name": "高山一実",
@@ -187,7 +187,7 @@
         "constellation": "みずがめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/takayamakazumi_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/kazumi.takayama/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=42"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/30"
     },
     "teradaranze" : {
         "name": "寺田蘭世",
@@ -196,7 +196,7 @@
         "constellation": "てんびん座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/teradaranze_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/ranze.terada/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=41"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/29"
     },
     "nakadakana" : {
         "name": "中田花奈",
@@ -205,7 +205,7 @@
         "constellation": "しし座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/nakadakana_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/kana.nakada/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=40"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/28"
     },
     "nakamotohimeka" : {
         "name": "中元日芽香",
@@ -214,7 +214,7 @@
         "constellation": "おひつじ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/nakamotohimeka_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/himeka.nakamoto/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=39"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/27"
     },
     "nishinonanase" : {
         "name": "西野七瀬",
@@ -223,7 +223,7 @@
         "constellation": "ふたご座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/nishinonanase_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/nanase.nishino/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=37"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/26"
     },
     "noujouami" : {
         "name": "能條愛未",
@@ -232,7 +232,7 @@
         "constellation": "てんびん座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/noujouami_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/ami.noujo/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=36"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/25"
     },
     "hashimotonanami" : {
         "name": "橋本奈々未",
@@ -241,7 +241,7 @@
         "constellation": "うお座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/hashimotonanami_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/nanami.hashimoto/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=35"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/24"
     },
     "higuchihina" : {
         "name": "樋口日奈",
@@ -250,7 +250,7 @@
         "constellation": "みずがめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/higuchihina_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/hina.higuchi/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=34"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/23"
     },
     "fukagawamai" : {
         "name": "深川麻衣",
@@ -269,7 +269,7 @@
         "constellation": "みずがめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/hoshinominami_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/minami.hoshino/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=32"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/22"
     },
     "horimiona" : {
         "name": "堀未央奈",
@@ -278,7 +278,7 @@
         "constellation": "てんびん座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/horimiona_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/miona.hori/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=31"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/21"
     },
     "matsumurasayuri" : {
         "name": "松村沙友理",
@@ -287,7 +287,7 @@
         "constellation": "おとめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/matsumurasayuri_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/sayuri.matsumura/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=30"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/20"
     },
     "yamazakirena" : {
         "name": "山崎怜奈",
@@ -296,7 +296,7 @@
         "constellation": "ふたご座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/yamazakirena_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/rena.yamazaki/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=29"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/19"
     },
     "wakatsukiyumi" : {
         "name": "若月佑美",
@@ -305,7 +305,7 @@
         "constellation": "かに座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/wakatsukiyumi_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/yumi.wakatsuki/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=28"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/18"
     },
     "watanabemiria" : {
         "name": "渡辺みり愛",
@@ -314,7 +314,7 @@
         "constellation": "さそり座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/watanabemiria_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/miria.watanabe/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=27"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/17"
     },
     "wadamaaya" : {
         "name": "和田まあや",
@@ -323,6 +323,6 @@
         "constellation": "おうし座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/wadamaaya_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/maaya.wada/smph/",
-        "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=26"
+        "goodsUri" : "http://www.nogizaka46shop.com/category/16"
     }
 }

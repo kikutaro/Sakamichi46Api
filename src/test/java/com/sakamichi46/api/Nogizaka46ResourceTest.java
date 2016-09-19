@@ -94,7 +94,7 @@ public class Nogizaka46ResourceTest {
         assertThat(maiShiraishi.getConstellation(), is("しし座"));
         assertThat(maiShiraishi.getProfilePhotoUri(), is("http://img.nogizaka46.com/www/member/img/shiraishimai_prof.jpg"));
         assertThat(maiShiraishi.getBlogUri(), is("http://blog.nogizaka46.com/mai.shiraishi/smph/"));
-        assertThat(maiShiraishi.getGoodsUri(), is("http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=45"));
+        assertThat(maiShiraishi.getGoodsUri(), is("http://www.nogizaka46shop.com/category/33"));
     }
     
     @Test

@@ -85,7 +85,8 @@
         "bloodType": "O",
         "constellation": "おとめ座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-22__400_320_102400_jpg.jpg",
-        "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&ima=0938&cd=member&ct=22"
+        "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&ima=0938&cd=member&ct=22",
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/376"
     },
     "higashimuramei" : {
         "name": "東村芽依",

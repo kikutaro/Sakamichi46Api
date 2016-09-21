@@ -37,6 +37,7 @@ public class Nogizaka46ResourceTest {
                 .addClass(HiraganaKeyakiResource.class)
                 .addClass(Keyakizaka46Resource.class)
                 .addClass(Nogizaka46Resource.class)
+                .addClass(Nogizaka46ThirdResource.class)
                 .addClass(ApplicationConfig.class)
                 .addClass(Member.class)
                 .addClass(Music.class)
@@ -45,7 +46,8 @@ public class Nogizaka46ResourceTest {
                 .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Keyakizaka46.json"))
                 .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Nogizaka46.json"))
                 .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Nogizaka46Music.json"))
-                .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Keyakizaka46Music.json"));
+                .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Keyakizaka46Music.json"))
+                .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Nogizaka46Third.json"));
     }
     
     @ArquillianResource

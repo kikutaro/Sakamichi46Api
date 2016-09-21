@@ -1,0 +1,110 @@
+{
+    "itouriria" : {
+        "name": "伊藤理々杏",
+        "birthday": "2002-10-8",
+        "bloodType": "",
+        "constellation": "",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_itou.jpg",
+        "blogUri" : "",
+        "goodsUri" : ""
+    },
+    "iwamotorenka" : {
+        "name": "岩本蓮加",
+        "birthday": "2004-2-2",
+        "bloodType": "",
+        "constellation": "",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_iwamoto.jpg",
+        "blogUri" : "",
+        "goodsUri" : ""
+    },
+    "umezawaminami" : {
+        "name": "梅澤美波",
+        "birthday": "1999-1-6",
+        "bloodType": "",
+        "constellation": "",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_umezawa.jpg",
+        "blogUri" : "",
+        "goodsUri" : ""
+    },
+    "oozonomomoko" : {
+        "name": "大園桃子",
+        "birthday": "1999-9-13",
+        "bloodType": "",
+        "constellation": "",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_oozono.jpg",
+        "blogUri" : "",
+        "goodsUri" : ""
+    },
+    "kuboshiori" : {
+        "name": "久保史緒里",
+        "birthday": "2001-7-14",
+        "bloodType": "",
+        "constellation": "",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_kubo.jpg",
+        "blogUri" : "",
+        "goodsUri" : ""
+    },
+    "sakaguchitamami" : {
+        "name": "阪口珠美",
+        "birthday": "2001-11-10",
+        "bloodType": "",
+        "constellation": "",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_sakaguchi.jpg",
+        "blogUri" : "",
+        "goodsUri" : ""
+    },
+    "satoukaede" : {
+        "name": "佐藤楓",
+        "birthday": "1998-3-23",
+        "bloodType": "",
+        "constellation": "",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_satou.jpg",
+        "blogUri" : "",
+        "goodsUri" : ""
+    },
+    "nakamurareno" : {
+        "name": "中村麗乃",
+        "birthday": "2001-9-27",
+        "bloodType": "",
+        "constellation": "",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_nakamura.jpg",
+        "blogUri" : "",
+        "goodsUri" : ""
+    },
+    "mukaihazuki" : {
+        "name": "向井葉月",
+        "birthday": "1999-8-23",
+        "bloodType": "",
+        "constellation": "",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_mukai.jpg",
+        "blogUri" : "",
+        "goodsUri" : ""
+    },
+    "yamashitamiduki" : {
+        "name": "山下美月",
+        "birthday": "1999-7-26",
+        "bloodType": "",
+        "constellation": "",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_yamashita.jpg",
+        "blogUri" : "",
+        "goodsUri" : ""
+    },
+    "yoshidaayanokurisuthi" : {
+        "name": "吉田綾乃クリスティー",
+        "birthday": "1995-9-6",
+        "bloodType": "",
+        "constellation": "",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_yoshida.jpg",
+        "blogUri" : "",
+        "goodsUri" : ""
+    },
+    "yodayuuki" : {
+        "name": "与田祐希",
+        "birthday": "2000-5-5",
+        "bloodType": "",
+        "constellation": "",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_yoda.jpg",
+        "blogUri" : "",
+        "goodsUri" : ""
+    }
+}

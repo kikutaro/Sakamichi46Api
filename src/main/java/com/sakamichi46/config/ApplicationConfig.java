@@ -27,6 +27,7 @@ public class ApplicationConfig extends Application {
         resources.add(com.sakamichi46.api.HiraganaKeyakiResource.class);
         resources.add(com.sakamichi46.api.Keyakizaka46Resource.class);
         resources.add(com.sakamichi46.api.Nogizaka46Resource.class);
+        resources.add(com.sakamichi46.api.Nogizaka46ThirdResource.class);
     }
     
 }

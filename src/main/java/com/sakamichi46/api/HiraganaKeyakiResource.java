@@ -67,6 +67,14 @@ public class HiraganaKeyakiResource extends AbstractSakamichi46Resource {
         //same url because of responsive site
         return getGoodsUrl();
     }
+    
+    @GET
+    @Path("matome")
+    @Produces(MediaType.TEXT_PLAIN)
+    @Override
+    public String getMatomeUrl() {
+        return "http://www.keyakizaka46matomerabo.com/";
+    }
 
     @Override
     public String getTwitterRankingUrl() {

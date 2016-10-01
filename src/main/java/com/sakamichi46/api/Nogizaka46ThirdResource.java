@@ -67,6 +67,14 @@ public class Nogizaka46ThirdResource extends AbstractSakamichi46Resource {
     public String getGoodsMobileUrl() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
+    
+    @GET
+    @Path("matome")
+    @Produces(MediaType.TEXT_PLAIN)
+    @Override
+    public String getMatomeUrl() {
+        return "http://nogizaka46democracy.blog.jp/archives/cat_1201660.html";
+    }
 
     @Override
     public String getTwitterRankingUrl() {

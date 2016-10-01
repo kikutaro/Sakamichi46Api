@@ -62,6 +62,14 @@ public class Keyakizaka46Resource extends AbstractSakamichi46Resource {
     }
     
     @GET
+    @Path("matome")
+    @Produces(MediaType.TEXT_PLAIN)
+    @Override
+    public String getMatomeUrl() {
+        return "http://www.keyakizaka46matomerabo.com/";
+    }
+    
+    @GET
     @Path("tweetrank")
     @Produces(MediaType.TEXT_PLAIN)
     @Override

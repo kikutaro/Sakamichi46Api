@@ -6,7 +6,10 @@
         "constellation": "おうし座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-01__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=01",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/356"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/356",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_161671.html"
+            ]
     },
     "imaizumiyui" : {
         "name": "今泉佑唯",
@@ -15,7 +18,10 @@
         "constellation": "てんびん座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-02__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=02",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/357"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/357",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_150769.html"
+            ]
     },
     "uemurarina" : {
         "name": "上村莉菜",
@@ -24,7 +30,10 @@
         "constellation": "やぎ座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-03__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=03",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/358"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/358",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_154621.html"
+            ]
     },
     "ozekirika" : {
         "name": "尾関梨香",
@@ -33,7 +42,10 @@
         "constellation": "てんびん座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-04__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=04",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/359"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/359",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_150656.html"
+            ]
     },
     "odanana" : {
         "name": "織田奈那",
@@ -42,7 +54,10 @@
         "constellation": "ふたご座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-05__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=05",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/360"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/360",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_166153.html"
+            ]
     },
     "koikeminami" : {
         "name": "小池美波",
@@ -51,7 +66,10 @@
         "constellation": "さそり座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-06__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=06",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/361"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/361",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_160291.html"
+            ]
     },
     "kobayashiyui" : {
         "name": "小林由依",
@@ -60,7 +78,10 @@
         "constellation": "てんびん座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-07__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=07",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/362"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/362",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_155602.html"
+            ]
     },
     "saitofuyuka" : {
         "name": "齋藤冬優花",
@@ -69,7 +90,10 @@
         "constellation": "みずがめ座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-08__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=08",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/363"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/363",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_164265.html"
+            ]
     },
     "satoshiori" : {
         "name": "佐藤詩織",
@@ -78,7 +102,10 @@
         "constellation": "さそり座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-09__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=09",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/364"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/364",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_170587.html"
+            ]
     },
     "shidamanaka" : {
         "name": "志田愛佳",
@@ -87,7 +114,10 @@
         "constellation": "いて座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-10__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=10",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/365"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/365",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_158172.html"
+            ]
     },
     "sugaiyuuka" : {
         "name": "菅井友香",
@@ -96,7 +126,10 @@
         "constellation": "いて座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-11__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=11",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/366"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/366",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_153463.html"
+            ]
     },
     "suzumotomiyu" : {
         "name": "鈴本美愉",
@@ -105,7 +138,10 @@
         "constellation": "いて座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-12__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=12",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/367"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/367",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_159683.html"
+            ]
     },
     "nagasawananako" : {
         "name": "長沢菜々香",
@@ -114,7 +150,10 @@
         "constellation": "おうし座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-13__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=13",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/368"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/368",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_153676.html"
+            ]
     },
     "habumizuho" : {
         "name": "土生瑞穂",
@@ -123,7 +162,10 @@
         "constellation": "かに座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-14__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=14",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/369"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/369",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_156632.html"
+            ]
     },
     "haradaaoi" : {
         "name": "原田葵",
@@ -132,7 +174,10 @@
         "constellation": "おうし座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-15__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=15",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/370"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/370",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_165230.html"
+            ]
     },
     "hirateyurina" : {
         "name": "平手友梨奈",
@@ -141,7 +186,10 @@
         "constellation": "かに座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-17__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=17",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/371"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/371",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_153501.html"
+            ]
     },
     "moriyaakane" : {
         "name": "守屋茜",
@@ -150,7 +198,10 @@
         "constellation": "さそり座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-18__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=18",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/372"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/372",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_161642.html"
+            ]
     },
     "yonetaninanami" : {
         "name": "米谷奈々未",
@@ -159,7 +210,10 @@
         "constellation": "うお座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-19__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=19",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/373"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/373",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_168485.html"
+            ]
     }
     ,
     "watanaberika" : {
@@ -169,7 +223,10 @@
         "constellation": "おうし座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-20__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=20",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/374"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/374",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_153462.html"
+            ]
     },
     "watanaberisa" : {
         "name": "渡邉理佐",
@@ -178,6 +235,9 @@
         "constellation": "しし座",
         "profilePhotoUri": "http://www.keyakizaka46.com/img/14/orig/k46o/201/604/201604-21__400_320_102400_jpg.jpg",
         "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&cd=member&ct=21",
-        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/375"
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/375",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_155601.html"
+            ]
     }
 }

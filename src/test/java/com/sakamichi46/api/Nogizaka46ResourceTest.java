@@ -83,6 +83,13 @@ public class Nogizaka46ResourceTest {
     
     @Test
     @RunAsClient
+    public void Nogizaka46MatomeUrlTest() throws MalformedURLException {
+        Response get = ResteasyClientBuilder.newBuilder().build().target(new URL(base, "api/nogizaka46/matome").toExternalForm()).request().get();
+        assertThat(get.readEntity(String.class), is("http://nogizaka46democracy.blog.jp/"));
+    }
+    
+    @Test
+    @RunAsClient
     public void Nogizaka46MemberProfileUrlTest() throws MalformedURLException {
         Member maiShiraishi = ResteasyClientBuilder.newBuilder().build()
                 .target(new URL(base, "api/nogizaka46/profile/shiraishimai").toExternalForm())
@@ -97,6 +104,7 @@ public class Nogizaka46ResourceTest {
         assertThat(maiShiraishi.getProfilePhotoUri(), is("http://img.nogizaka46.com/www/member/img/shiraishimai_prof.jpg"));
         assertThat(maiShiraishi.getBlogUri(), is("http://blog.nogizaka46.com/mai.shiraishi/smph/"));
         assertThat(maiShiraishi.getGoodsUri(), is("http://www.nogizaka46shop.com/category/33"));
+        assertThat(maiShiraishi.getMatomeUri().get(0), is("http://nogizaka46democracy.blog.jp/archives/cat_51850.html"));
     }
     
     @Test

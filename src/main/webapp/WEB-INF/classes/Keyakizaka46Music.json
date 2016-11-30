@@ -1,5 +1,59 @@
 [
     {
+        "title": "二人セゾン",
+        "releaseVersion": "3rd 二人セゾン",
+        "releaseDate": "2016-11-30",
+        "lyricsUri": "http://www.uta-net.com/song/219728/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/71PTYxbqR9L._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=mNpPQXMgtmw&index=4&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "A"
+    },
+    {
+        "title": "大人は信じてくれない",
+        "releaseVersion": "3rd 二人セゾン",
+        "releaseDate": "2016-11-30",
+        "lyricsUri": "http://www.uta-net.com/song/219727/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/71PTYxbqR9L._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=8JZqeFGDszw&index=1&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "A"
+    },
+    {
+        "title": "制服と太陽",
+        "releaseVersion": "3rd 二人セゾン",
+        "releaseDate": "2016-11-30",
+        "lyricsUri": "http://www.uta-net.com/song/219725/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/71PTYxbqR9L._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "誰よりも高く跳べ!",
+        "releaseVersion": "3rd 二人セゾン",
+        "releaseDate": "2016-11-30",
+        "lyricsUri": "http://www.uta-net.com/song/219724/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/91b3k0%2BopaL._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=e07sE-RWRac&index=2&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "B"
+    },
+    {
+        "title": "僕たちの戦争",
+        "releaseVersion": "3rd 二人セゾン",
+        "releaseDate": "2016-11-30",
+        "lyricsUri": "http://www.uta-net.com/song/219723/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/815CH4aou1L._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=fZzJeqJieoI&index=3&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "C"
+    },
+    {
+        "title": "夕陽1/3",
+        "releaseVersion": "3rd 二人セゾン",
+        "releaseDate": "2016-11-30",
+        "lyricsUri": "http://www.uta-net.com/song/219726/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/91YkEiHnDBL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "None"
+    },
+    {
         "title": "世界には愛しかない",
         "releaseVersion": "2nd 世界には愛しかない",
         "releaseDate": "2016-8-10",

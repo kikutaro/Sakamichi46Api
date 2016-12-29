@@ -75,6 +75,14 @@ public class HiraganaKeyakiResource extends AbstractSakamichi46Resource {
     public String getMatomeUrl() {
         return "http://www.keyakizaka46matomerabo.com/";
     }
+    
+    @GET
+    @Path("tv")
+    @Produces(MediaType.TEXT_PLAIN)
+    @Override
+    public String getTvUrl() {
+        return "https://talent.thetv.jp/person/2000015725/";
+    }
 
     @Override
     public String getTwitterRankingUrl() {

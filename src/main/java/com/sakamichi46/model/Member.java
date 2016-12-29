@@ -20,6 +20,7 @@ public class Member {
     private String constellation;
     private String profilePhotoUri;
     private String blogUri;
+    private String tvUri;
     private String goodsUri;
     private List<String> matomeUri;
     @JsonInclude(JsonInclude.Include.NON_NULL)

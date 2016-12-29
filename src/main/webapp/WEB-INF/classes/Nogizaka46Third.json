@@ -6,6 +6,7 @@
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_itou.jpg",
         "blogUri" : "",
+        "tvUri" : "",
         "goodsUri" : ""
     },
     "iwamotorenka" : {
@@ -15,6 +16,7 @@
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_iwamoto.jpg",
         "blogUri" : "",
+        "tvUri" : "",
         "goodsUri" : ""
     },
     "umezawaminami" : {
@@ -24,6 +26,7 @@
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_umezawa.jpg",
         "blogUri" : "",
+        "tvUri" : "",
         "goodsUri" : ""
     },
     "oozonomomoko" : {
@@ -33,6 +36,7 @@
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_oozono.jpg",
         "blogUri" : "",
+        "tvUri" : "",
         "goodsUri" : ""
     },
     "kuboshiori" : {
@@ -42,6 +46,7 @@
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_kubo.jpg",
         "blogUri" : "",
+        "tvUri" : "",
         "goodsUri" : ""
     },
     "sakaguchitamami" : {
@@ -51,6 +56,7 @@
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_sakaguchi.jpg",
         "blogUri" : "",
+        "tvUri" : "",
         "goodsUri" : ""
     },
     "satoukaede" : {
@@ -60,6 +66,7 @@
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_satou.jpg",
         "blogUri" : "",
+        "tvUri" : "",
         "goodsUri" : ""
     },
     "nakamurareno" : {
@@ -69,6 +76,7 @@
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_nakamura.jpg",
         "blogUri" : "",
+        "tvUri" : "",
         "goodsUri" : ""
     },
     "mukaihazuki" : {
@@ -78,6 +86,7 @@
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_mukai.jpg",
         "blogUri" : "",
+        "tvUri" : "",
         "goodsUri" : ""
     },
     "yamashitamiduki" : {
@@ -87,6 +96,7 @@
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_yamashita.jpg",
         "blogUri" : "",
+        "tvUri" : "",
         "goodsUri" : ""
     },
     "yoshidaayanokurisuthi" : {
@@ -96,6 +106,7 @@
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_yoshida.jpg",
         "blogUri" : "",
+        "tvUri" : "",
         "goodsUri" : ""
     },
     "yodayuuki" : {
@@ -105,6 +116,7 @@
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_yoda.jpg",
         "blogUri" : "",
+        "tvUri" : "",
         "goodsUri" : ""
     }
 }

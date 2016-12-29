@@ -90,6 +90,8 @@ public abstract class AbstractSakamichi46Resource {
     
     public abstract String getMatomeUrl();
     
+    public abstract String getTvUrl();
+    
     public abstract String getTwitterRankingUrl();
     
     public abstract void reload();

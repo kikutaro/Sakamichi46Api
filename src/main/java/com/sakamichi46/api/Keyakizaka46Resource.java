@@ -70,6 +70,14 @@ public class Keyakizaka46Resource extends AbstractSakamichi46Resource {
     }
     
     @GET
+    @Path("tv")
+    @Produces(MediaType.TEXT_PLAIN)
+    @Override
+    public String getTvUrl() {
+        return "https://talent.thetv.jp/person/2000006918/program/";
+    }
+    
+    @GET
     @Path("tweetrank")
     @Produces(MediaType.TEXT_PLAIN)
     @Override

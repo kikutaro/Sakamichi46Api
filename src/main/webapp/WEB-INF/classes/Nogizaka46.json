@@ -6,6 +6,7 @@
         "constellation": "しし座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/akimotomanatsu_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/manatsu.akimoto/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082342/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/50",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_304644.html"
@@ -18,6 +19,7 @@
         "constellation": "みずがめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/ikutaerika_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/erika.ikuta/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082345/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/49",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_58342.html"
@@ -30,6 +32,7 @@
         "constellation": "やぎ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/ikomarina_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/rina.ikoma/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082346/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/48",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_46398.html"
@@ -42,6 +45,7 @@
         "constellation": "ふたご座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/itoukarin_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/karin.itou/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/2000003711/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/47",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_305552.html"
@@ -54,6 +58,7 @@
         "constellation": "いて座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/itoujunna_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/junna.itou/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/2000004346/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/46",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_141699.html"
@@ -66,6 +71,7 @@
         "constellation": "うお座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/itoumarika_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/marika.ito/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082679/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/45",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_58345.html"
@@ -78,6 +84,7 @@
         "constellation": "いて座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/inouesayuri_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/sayuri.inoue/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082680/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/44",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_63805.html"
@@ -90,6 +97,7 @@
         "constellation": "やぎ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/etoumisa_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/misa.eto/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082604/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/43",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_58635.html"
@@ -102,6 +110,7 @@
         "constellation": "おひつじ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/kawagohina_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/hina.kawago/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082687/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/42",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_97754.html"
@@ -114,6 +123,7 @@
         "constellation": "しし座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/kawamuramahiro_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/mahiro.kawamura/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082689/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/41",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_112660.html"
@@ -126,6 +136,7 @@
         "constellation": "かに座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/kitanohinako_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/hinako.kitano/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/2000004347/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/40",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_128221.html"
@@ -138,6 +149,7 @@
         "constellation": "しし座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/saitouasuka_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/asuka.saito/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082690/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/39",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_47905.html"
@@ -150,6 +162,7 @@
         "constellation": "みずがめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/saitouchiharu_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/chiharu.saito/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082691/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/38",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_111530.html"
@@ -162,6 +175,7 @@
         "constellation": "かに座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/saitouyuuri_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/yuuri.saito/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082693/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/37",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_99509.html"
@@ -174,6 +188,7 @@
         "constellation": "いて座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/sagaraiori_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/iori.sagara/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/2000004348/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/36",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_410999.html"
@@ -186,6 +201,7 @@
         "constellation": "おうし座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/sakuraireika_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/reika.sakurai/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082694/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/35",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_57705.html"
@@ -198,6 +214,7 @@
         "constellation": "おとめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/sasakikotoko_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/kotoko.sasaki/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/2000004349/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/34",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_102483.html"
@@ -210,6 +227,7 @@
         "constellation": "しし座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/shiraishimai_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/mai.shiraishi/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082696/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/33",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_51850.html"
@@ -222,6 +240,7 @@
         "constellation": "みずがめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/shinuchimai_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/mai.shinuchi/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/2000003846/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/32",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_212691.html"
@@ -234,6 +253,7 @@
         "constellation": "うお座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/suzukiayane_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/ayane.suzuki/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/2000004350/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/31",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_108028.html"
@@ -246,6 +266,7 @@
         "constellation": "みずがめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/takayamakazumi_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/kazumi.takayama/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082697/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/30",
         "matomeUri" : [
             ""
@@ -258,6 +279,7 @@
         "constellation": "てんびん座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/teradaranze_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/ranze.terada/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/2000004351/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/29",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_237391.html"
@@ -270,6 +292,7 @@
         "constellation": "しし座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/nakadakana_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/kana.nakada/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082665/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/28",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_87474.html"
@@ -282,6 +305,7 @@
         "constellation": "おひつじ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/nakamotohimeka_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/himeka.nakamoto/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082666/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/27",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_57772.html"
@@ -294,6 +318,7 @@
         "constellation": "ふたご座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/nishinonanase_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/nanase.nishino/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082668/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/26",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_56865.html"
@@ -306,6 +331,7 @@
         "constellation": "てんびん座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/noujouami_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/ami.noujo/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082343/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/25",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_173496.html"
@@ -318,6 +344,7 @@
         "constellation": "うお座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/hashimotonanami_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/nanami.hashimoto/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082670/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/24",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_58347.html"
@@ -330,6 +357,7 @@
         "constellation": "みずがめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/higuchihina_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/hina.higuchi/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082672/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/23",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_113400.html"
@@ -342,6 +370,7 @@
         "constellation": "おひつじ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/fukagawamai_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/mai.fukagawa/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082673/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/msp/store/list.cgi?cno=4&cmno=33",
         "graduateDate" : "2016-6-16"
     },
@@ -352,6 +381,7 @@
         "constellation": "みずがめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/hoshinominami_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/minami.hoshino/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000031037/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/22",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_63964.html"
@@ -364,6 +394,7 @@
         "constellation": "てんびん座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/horimiona_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/miona.hori/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000094062/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/21",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_46400.html"
@@ -376,6 +407,7 @@
         "constellation": "おとめ座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/matsumurasayuri_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/sayuri.matsumura/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082683/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/20",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_46399.html"
@@ -388,6 +420,7 @@
         "constellation": "ふたご座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/yamazakirena_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/rena.yamazaki/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/2000004352/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/19",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_108469.html"
@@ -400,6 +433,7 @@
         "constellation": "かに座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/wakatsukiyumi_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/yumi.wakatsuki/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082686/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/18",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_74270.html"
@@ -412,6 +446,7 @@
         "constellation": "さそり座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/watanabemiria_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/miria.watanabe/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/2000004353/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/17",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_101378.html"
@@ -424,6 +459,7 @@
         "constellation": "おうし座",
         "profilePhotoUri": "http://img.nogizaka46.com/www/member/img/wadamaaya_prof.jpg",
         "blogUri" : "http://blog.nogizaka46.com/maaya.wada/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082688/program/",
         "goodsUri" : "http://www.nogizaka46shop.com/category/16",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_115624.html"
@@ -436,6 +472,7 @@
         "constellation": "みずがめ座",
         "profilePhotoUri": "http://stat.profile.ameba.jp/profile_images/20150703/18/ad/ha/j/o015001501435914400518.jpg",
         "blogUri" : "http://ameblo.jp/rena-ichiki/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082678/program/",
         "goodsUri" : "",
         "graduateDate" : "2014-7-21"
     },
@@ -446,6 +483,7 @@
         "constellation": "おうし座",
         "profilePhotoUri": "https://obs.line-scdn.net/0m0e742b73ef54370037322142617b65743d253b317a136a1a4a396c24292b39396837363c3f37390f3d2f613a337e6a37602303247218690c353d65/small",
         "blogUri" : "http://lineblog.me/nagashimaseira/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082667/program/",
         "goodsUri" : "",
         "graduateDate" : "2016-3-20"
     },
@@ -456,6 +494,7 @@
         "constellation": "いて座",
         "profilePhotoUri": "http://stat.profile.ameba.jp/profile_images/20151110/18/1b/Lx/j/o050005001447147578614.jpg",
         "blogUri" : "http://ameblo.jp/hatanaka-seira/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082671/program/",
         "goodsUri" : "",
         "graduateDate" : "2015-4-4"
     }

@@ -105,6 +105,7 @@ public class Nogizaka46ResourceTest {
         assertThat(maiShiraishi.getConstellation(), is("しし座"));
         assertThat(maiShiraishi.getProfilePhotoUri(), is("http://img.nogizaka46.com/www/member/img/shiraishimai_prof.jpg"));
         assertThat(maiShiraishi.getBlogUri(), is("http://blog.nogizaka46.com/mai.shiraishi/smph/"));
+        assertThat(maiShiraishi.getTvUri(), is("https://talent.thetv.jp/person/1000082696/program/"));
         assertThat(maiShiraishi.getGoodsUri(), is("http://www.nogizaka46shop.com/category/33"));
         assertThat(maiShiraishi.getMatomeUri().get(0), is("http://nogizaka46democracy.blog.jp/archives/cat_51850.html"));
     }

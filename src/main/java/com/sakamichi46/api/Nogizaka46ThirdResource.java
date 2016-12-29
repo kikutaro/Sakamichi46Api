@@ -75,6 +75,14 @@ public class Nogizaka46ThirdResource extends AbstractSakamichi46Resource {
     public String getMatomeUrl() {
         return "http://nogizaka46democracy.blog.jp/archives/cat_1201660.html";
     }
+    
+    @GET
+    @Path("tv")
+    @Produces(MediaType.TEXT_PLAIN)
+    @Override
+    public String getTvUrl() {
+        return "https://talent.thetv.jp/person/1000082336/program/";
+    }
 
     @Override
     public String getTwitterRankingUrl() {

@@ -14,6 +14,7 @@ REST API for getting Sakamichi series(坂道シリーズ) Nogizaka46(乃木坂46
  - Goods Url
  - Matome Url
 + All Member Profile
++ Graduated Member Profile
 + Group Member Count
 + Official Blog Url
 + Official Blog Url for mobile

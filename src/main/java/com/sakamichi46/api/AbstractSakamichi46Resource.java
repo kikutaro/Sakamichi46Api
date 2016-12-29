@@ -49,6 +49,15 @@ public abstract class AbstractSakamichi46Resource {
     }
     
     @GET
+    @Path("graduate")
+    @Produces(MediaType.APPLICATION_JSON + CHARSET_UTF8)
+    public List<Member> getAllGraduates() {
+        return memberMap.values().stream()
+                .filter(m -> m.getGraduateDate() != null)
+                .collect(Collectors.toList());
+    }
+    
+    @GET
     @Path("count")
     @Produces(MediaType.TEXT_PLAIN + CHARSET_UTF8)
     public long getMemberCount() {

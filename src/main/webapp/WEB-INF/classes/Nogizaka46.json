@@ -428,5 +428,35 @@
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_115624.html"
             ]
+    },
+    "ichikirena" : {
+        "name": "市來玲奈",
+        "birthday": "1996-1-22",
+        "bloodType": "A",
+        "constellation": "みずがめ座",
+        "profilePhotoUri": "http://stat.profile.ameba.jp/profile_images/20150703/18/ad/ha/j/o015001501435914400518.jpg",
+        "blogUri" : "http://ameblo.jp/rena-ichiki/",
+        "goodsUri" : "",
+        "graduateDate" : "2014-7-21"
+    },
+    "nagashimaseira" : {
+        "name": "永島聖羅",
+        "birthday": "1994-5-19",
+        "bloodType": "O",
+        "constellation": "おうし座",
+        "profilePhotoUri": "https://obs.line-scdn.net/0m0e742b73ef54370037322142617b65743d253b317a136a1a4a396c24292b39396837363c3f37390f3d2f613a337e6a37602303247218690c353d65/small",
+        "blogUri" : "http://lineblog.me/nagashimaseira/",
+        "goodsUri" : "",
+        "graduateDate" : "2016-3-20"
+    },
+    "hatanakaseira" : {
+        "name": "畠中清羅",
+        "birthday": "1995-12-5",
+        "bloodType": "B",
+        "constellation": "いて座",
+        "profilePhotoUri": "http://stat.ameba.jp/common_style/img/ameba/common/spacer.gif",
+        "blogUri" : "http://ameblo.jp/hatanaka-seira/",
+        "goodsUri" : "",
+        "graduateDate" : "2015-4-4"
     }
 }

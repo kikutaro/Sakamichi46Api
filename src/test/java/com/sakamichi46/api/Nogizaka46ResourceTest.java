@@ -9,6 +9,8 @@ import java.net.URL;
 import java.time.LocalDate;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
+import java.util.List;
+import javax.ws.rs.core.GenericType;
 import javax.ws.rs.core.Response;
 import static org.hamcrest.CoreMatchers.is;
 import org.jboss.arquillian.container.test.api.Deployment;
@@ -105,6 +107,15 @@ public class Nogizaka46ResourceTest {
         assertThat(maiShiraishi.getBlogUri(), is("http://blog.nogizaka46.com/mai.shiraishi/smph/"));
         assertThat(maiShiraishi.getGoodsUri(), is("http://www.nogizaka46shop.com/category/33"));
         assertThat(maiShiraishi.getMatomeUri().get(0), is("http://nogizaka46democracy.blog.jp/archives/cat_51850.html"));
+    }
+    
+    @Test
+    @RunAsClient
+    public void Nogizaka46MemberGraduateUrlTest() throws MalformedURLException {
+        List<Member> graduatesMembers = ResteasyClientBuilder.newBuilder().build()
+                .target(new URL(base, "api/nogizaka46/graduate").toExternalForm())
+                .request().get().readEntity(new GenericType<List<Member>>(){});
+        assertThat(graduatesMembers.size(), is(4));
     }
     
     @Test

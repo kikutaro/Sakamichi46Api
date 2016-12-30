@@ -116,7 +116,7 @@ public class Nogizaka46ResourceTest {
         List<Member> graduatesMembers = ResteasyClientBuilder.newBuilder().build()
                 .target(new URL(base, "api/nogizaka46/graduate").toExternalForm())
                 .request().get().readEntity(new GenericType<List<Member>>(){});
-        assertThat(graduatesMembers.size(), is(4));
+        assertThat(graduatesMembers.size(), is(5));
     }
     
     @Test

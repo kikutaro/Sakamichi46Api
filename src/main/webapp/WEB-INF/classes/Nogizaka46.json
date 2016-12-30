@@ -497,5 +497,16 @@
         "tvUri" : "https://talent.thetv.jp/person/1000082671/program/",
         "goodsUri" : "",
         "graduateDate" : "2015-4-4"
+    },
+    "miyazawaseira" : {
+        "name": "宮沢セイラ",
+        "birthday": "1993-10-29",
+        "bloodType": "O",
+        "constellation": "さそり座",
+        "profilePhotoUri": "https://stat100.ameba.jp/blog/img/ameba/officialblog/face/seira-miyazawa_120.jpg",
+        "blogUri" : "http://ameblo.jp/seira-miyazawa/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082684/program/",
+        "goodsUri" : "",
+        "graduateDate" : "2013-11-17"
     }
 }

@@ -5,9 +5,9 @@
         "bloodType": "",
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_itou.jpg",
-        "blogUri" : "",
+        "blogUri" : "http://blog.nogizaka46.com/third/",
         "tvUri" : "",
-        "goodsUri" : ""
+        "goodsUri" : "http://www.nogizaka46shop.com/category/110"
     },
     "iwamotorenka" : {
         "name": "岩本蓮加",
@@ -15,9 +15,9 @@
         "bloodType": "",
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_iwamoto.jpg",
-        "blogUri" : "",
+        "blogUri" : "http://blog.nogizaka46.com/third/",
         "tvUri" : "",
-        "goodsUri" : ""
+        "goodsUri" : "http://www.nogizaka46shop.com/category/111"
     },
     "umezawaminami" : {
         "name": "梅澤美波",
@@ -25,9 +25,9 @@
         "bloodType": "",
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_umezawa.jpg",
-        "blogUri" : "",
+        "blogUri" : "http://blog.nogizaka46.com/third/",
         "tvUri" : "",
-        "goodsUri" : ""
+        "goodsUri" : "http://www.nogizaka46shop.com/category/112"
     },
     "oozonomomoko" : {
         "name": "大園桃子",
@@ -35,9 +35,9 @@
         "bloodType": "",
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_oozono.jpg",
-        "blogUri" : "",
+        "blogUri" : "http://blog.nogizaka46.com/third/",
         "tvUri" : "",
-        "goodsUri" : ""
+        "goodsUri" : "http://www.nogizaka46shop.com/category/113"
     },
     "kuboshiori" : {
         "name": "久保史緒里",
@@ -45,9 +45,9 @@
         "bloodType": "",
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_kubo.jpg",
-        "blogUri" : "",
+        "blogUri" : "http://blog.nogizaka46.com/third/",
         "tvUri" : "",
-        "goodsUri" : ""
+        "goodsUri" : "http://www.nogizaka46shop.com/category/114"
     },
     "sakaguchitamami" : {
         "name": "阪口珠美",
@@ -55,9 +55,9 @@
         "bloodType": "",
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_sakaguchi.jpg",
-        "blogUri" : "",
+        "blogUri" : "http://blog.nogizaka46.com/third/",
         "tvUri" : "",
-        "goodsUri" : ""
+        "goodsUri" : "http://www.nogizaka46shop.com/category/115"
     },
     "satoukaede" : {
         "name": "佐藤楓",
@@ -65,9 +65,9 @@
         "bloodType": "",
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_satou.jpg",
-        "blogUri" : "",
+        "blogUri" : "http://blog.nogizaka46.com/third/",
         "tvUri" : "",
-        "goodsUri" : ""
+        "goodsUri" : "http://www.nogizaka46shop.com/category/116"
     },
     "nakamurareno" : {
         "name": "中村麗乃",
@@ -75,9 +75,9 @@
         "bloodType": "",
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_nakamura.jpg",
-        "blogUri" : "",
+        "blogUri" : "http://blog.nogizaka46.com/third/",
         "tvUri" : "",
-        "goodsUri" : ""
+        "goodsUri" : "http://www.nogizaka46shop.com/category/117"
     },
     "mukaihazuki" : {
         "name": "向井葉月",
@@ -85,9 +85,9 @@
         "bloodType": "",
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_mukai.jpg",
-        "blogUri" : "",
+        "blogUri" : "http://blog.nogizaka46.com/third/",
         "tvUri" : "",
-        "goodsUri" : ""
+        "goodsUri" : "http://www.nogizaka46shop.com/category/118"
     },
     "yamashitamiduki" : {
         "name": "山下美月",
@@ -95,9 +95,9 @@
         "bloodType": "",
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_yamashita.jpg",
-        "blogUri" : "",
+        "blogUri" : "http://blog.nogizaka46.com/third/",
         "tvUri" : "",
-        "goodsUri" : ""
+        "goodsUri" : "http://www.nogizaka46shop.com/category/119"
     },
     "yoshidaayanokurisuthi" : {
         "name": "吉田綾乃クリスティー",
@@ -105,9 +105,9 @@
         "bloodType": "",
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_yoshida.jpg",
-        "blogUri" : "",
+        "blogUri" : "http://blog.nogizaka46.com/third/",
         "tvUri" : "",
-        "goodsUri" : ""
+        "goodsUri" : "http://www.nogizaka46shop.com/category/120"
     },
     "yodayuuki" : {
         "name": "与田祐希",
@@ -115,8 +115,8 @@
         "bloodType": "",
         "constellation": "",
         "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_yoda.jpg",
-        "blogUri" : "",
+        "blogUri" : "http://blog.nogizaka46.com/third/",
         "tvUri" : "",
-        "goodsUri" : ""
+        "goodsUri" : "http://www.nogizaka46shop.com/category/121"
     }
 }

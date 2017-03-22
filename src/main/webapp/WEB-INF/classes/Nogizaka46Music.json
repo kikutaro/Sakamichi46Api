@@ -1,5 +1,68 @@
 [
     {
+        "title": "インフルエンサー",
+        "releaseVersion": "17th インフルエンサー",
+        "releaseDate": "2017-03-21",
+        "lyricsUri": "http://www.uta-net.com/song/226410/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51NVLpZjT-L._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://youtu.be/r4SdiT7mm7Y?list=PLDUMgL1jIEfMcaJcz082WS8TxcTlexJKz",
+        "type": "A"
+    },
+    {
+        "title": "人生を考えたくなる",
+        "releaseVersion": "17th インフルエンサー",
+        "releaseDate": "2017-03-21",
+        "lyricsUri": "http://www.uta-net.com/song/226409/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51NVLpZjT-L._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "意外BREAK",
+        "releaseVersion": "17th インフルエンサー",
+        "releaseDate": "2017-03-21",
+        "lyricsUri": "http://www.uta-net.com/song/226407/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51NVLpZjT-L._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://youtu.be/wIFf18IjqfM?list=PLDUMgL1jIEfMcaJcz082WS8TxcTlexJKz",
+        "type": "A"
+    },
+    {
+        "title": "Another Ghost",
+        "releaseVersion": "17th インフルエンサー",
+        "releaseDate": "2017-03-21",
+        "lyricsUri": "http://www.uta-net.com/song/226406/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61LCLRKP5CL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://youtu.be/D2RFjPlUJ3I?list=PLDUMgL1jIEfMcaJcz082WS8TxcTlexJKz",
+        "type": "B"
+    },
+    {
+        "title": "風船は生きている",
+        "releaseVersion": "17th インフルエンサー",
+        "releaseDate": "2017-03-21",
+        "lyricsUri": "http://www.uta-net.com/song/226405/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61ZUnCEODnL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://youtu.be/4lhm-XIva9k?list=PLDUMgL1jIEfMcaJcz082WS8TxcTlexJKz",
+        "type": "C"
+    },
+    {
+        "title": "三番目の風",
+        "releaseVersion": "17th インフルエンサー",
+        "releaseDate": "2017-03-21",
+        "lyricsUri": "http://www.uta-net.com/song/226404/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/618PJNkrAAL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://youtu.be/aF5r9WrvNfw?list=PLDUMgL1jIEfMcaJcz082WS8TxcTlexJKz",
+        "type": "D"
+    },
+    {
+        "title": "当たり障りのない話",
+        "releaseVersion": "17th インフルエンサー",
+        "releaseDate": "2017-03-21",
+        "lyricsUri": "http://www.uta-net.com/song/226408/",
+        "coverPhotoUri": "",
+        "officialMovieUri": "",
+        "type": "NONE"
+    },
+    {
         "title": "サヨナラの意味",
         "releaseVersion": "16th サヨナラの意味",
         "releaseDate": "2016-11-9",

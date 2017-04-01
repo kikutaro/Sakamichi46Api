@@ -116,13 +116,13 @@ public class Nogizaka46ResourceTest {
         List<Member> graduatesMembers = ResteasyClientBuilder.newBuilder().build()
                 .target(new URL(base, "api/nogizaka46/graduate").toExternalForm())
                 .request().get().readEntity(new GenericType<List<Member>>(){});
-        assertThat(graduatesMembers.size(), is(5));
+        assertThat(graduatesMembers.size(), is(6));
     }
     
     @Test
     @RunAsClient
     public void Nogizaka46MemberCountTest() throws MalformedURLException {
         long count = ResteasyClientBuilder.newBuilder().build().target(new URL(base, "api/nogizaka46/count").toExternalForm()).request().get().readEntity(long.class);
-        assertThat(count, is(35L));
+        assertThat(count, is(34L));
     }
 }

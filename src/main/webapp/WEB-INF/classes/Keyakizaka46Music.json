@@ -1,5 +1,68 @@
 [
     {
+        "title": "不協和音",
+        "releaseVersion": "4th 不協和音",
+        "releaseDate": "2017-04-05",
+        "lyricsUri": "http://www.uta-net.com/song/227214/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/81c-NubpYyL._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=gfzuzDrVRVM&index=5&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "A"
+    },
+    {
+        "title": "W-KEYAKIZAKAの詩",
+        "releaseVersion": "4th 不協和音",
+        "releaseDate": "2017-04-05",
+        "lyricsUri": "http://www.uta-net.com/song/227213/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/81c-NubpYyL._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=s8j9hva3luI&index=4&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "A"
+    },
+    {
+        "title": "微笑みが悲しい",
+        "releaseVersion": "4th 不協和音",
+        "releaseDate": "2017-04-05",
+        "lyricsUri": "http://www.uta-net.com/song/227212/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/81c-NubpYyL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "チューニング",
+        "releaseVersion": "4th 不協和音",
+        "releaseDate": "2017-04-05",
+        "lyricsUri": "http://www.uta-net.com/song/227211/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/8199KsSjjzL._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=9oj37v0j1Zk&index=3&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "B"
+    },
+    {
+        "title": "割れたスマホ",
+        "releaseVersion": "4th 不協和音",
+        "releaseDate": "2017-04-05",
+        "lyricsUri": "http://www.uta-net.com/song/227210/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/81a6PH-QajL._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=Jx5nBV4DVFw&index=2&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "C"
+    },
+    {
+        "title": "僕たちは付き合っている",
+        "releaseVersion": "4th 不協和音",
+        "releaseDate": "2017-04-05",
+        "lyricsUri": "http://www.uta-net.com/song/227209/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/71q2laBSBPL._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=E-cWP2x-7N0&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "D"
+    },
+    {
+        "title": "エキセントリック",
+        "releaseVersion": "4th 不協和音",
+        "releaseDate": "2017-04-05",
+        "lyricsUri": "http://www.uta-net.com/song/227208/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/813QN5fjb5L._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "None"
+    },
+    {
         "title": "二人セゾン",
         "releaseVersion": "3rd 二人セゾン",
         "releaseDate": "2016-11-30",

@@ -1132,5 +1132,95 @@
         "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61SKR5jc5kL._AC_UL70_SR70.69_.jpg",
         "officialMovieUri": "",
         "type": "D"
+    },
+    {
+        "title": "スカイダイビング",
+        "releaseVersion": "3ndAlbum 生まれてから初めて見た夢",
+        "releaseDate": "2016-5-24",
+        "lyricsUri": "http://www.uta-net.com/song/229653/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/71u1bslvFzL._AC_UL160_SR160,160_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "Rewindあの日",
+        "releaseVersion": "3ndAlbum 生まれてから初めて見た夢",
+        "releaseDate": "2016-5-24",
+        "lyricsUri": "http://www.uta-net.com/song/229649/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/71u1bslvFzL._AC_UL160_SR160,160_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "ごめんね、スムージー",
+        "releaseVersion": "3ndAlbum 生まれてから初めて見た夢",
+        "releaseDate": "2016-5-24",
+        "lyricsUri": "http://www.uta-net.com/song/229648/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/71u1bslvFzL._AC_UL160_SR160,160_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "醜い私",
+        "releaseVersion": "3ndAlbum 生まれてから初めて見た夢",
+        "releaseDate": "2016-5-24",
+        "lyricsUri": "http://www.uta-net.com/song/229647/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/71u1bslvFzL._AC_UL160_SR160,160_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "硬い殻のように抱きしめたい",
+        "releaseVersion": "3ndAlbum 生まれてから初めて見た夢",
+        "releaseDate": "2016-5-24",
+        "lyricsUri": "http://www.uta-net.com/song/229646/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/71JPBQzxKmL._AC_UL160_SR160,160_.jpg",
+        "officialMovieUri": "",
+        "type": "B"
+    },
+    {
+        "title": "満月が消えた",
+        "releaseVersion": "3ndAlbum 生まれてから初めて見た夢",
+        "releaseDate": "2016-5-24",
+        "lyricsUri": "http://www.uta-net.com/song/229645/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/71JPBQzxKmL._AC_UL160_SR160,160_.jpg",
+        "officialMovieUri": "",
+        "type": "B"
+    },
+    {
+        "title": "ワタボコリ",
+        "releaseVersion": "3ndAlbum 生まれてから初めて見た夢",
+        "releaseDate": "2016-5-24",
+        "lyricsUri": "http://www.uta-net.com/song/229644/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/71JPBQzxKmL._AC_UL160_SR160,160_.jpg",
+        "officialMovieUri": "",
+        "type": "B"
+    },
+    {
+        "title": "君が扇いでくれた",
+        "releaseVersion": "3ndAlbum 生まれてから初めて見た夢",
+        "releaseDate": "2016-5-24",
+        "lyricsUri": "http://www.uta-net.com/song/229652/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51UhSifUJ9L._AC_UL160_SR160,160_.jpg",
+        "officialMovieUri": "",
+        "type": "None"
+    },
+    {
+        "title": "思い出ファースト",
+        "releaseVersion": "3ndAlbum 生まれてから初めて見た夢",
+        "releaseDate": "2016-5-24",
+        "lyricsUri": "http://www.uta-net.com/song/229651/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51UhSifUJ9L._AC_UL160_SR160,160_.jpg",
+        "officialMovieUri": "",
+        "type": "None"
+    },
+    {
+        "title": "設定温度",
+        "releaseVersion": "3ndAlbum 生まれてから初めて見た夢",
+        "releaseDate": "2016-5-24",
+        "lyricsUri": "http://www.uta-net.com/song/229650/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51UhSifUJ9L._AC_UL160_SR160,160_.jpg",
+        "officialMovieUri": "",
+        "type": "None"
     }
 ]

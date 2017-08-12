@@ -1,5 +1,68 @@
 [
     {
+        "title": "逃げ水",
+        "releaseVersion": "18th 逃げ水",
+        "releaseDate": "2017-8-9",
+        "lyricsUri": "http://www.uta-net.com/song/234007/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51fjKQ-Q1NL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://youtu.be/nhrXbPlpdQQ?list=PLDUMgL1jIEfMcaJcz082WS8TxcTlexJKz",
+        "type": "A"
+    },
+    {
+        "title": "女は一人じゃ眠れない",
+        "releaseVersion": "18th 逃げ水",
+        "releaseDate": "2017-8-9",
+        "lyricsUri": "http://www.uta-net.com/song/234006/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51fjKQ-Q1NL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://youtu.be/j3NA334tzvQ?list=PLDUMgL1jIEfMcaJcz082WS8TxcTlexJKz",
+        "type": "A"
+    },
+    {
+        "title": "ひと夏の長さより…",
+        "releaseVersion": "18th 逃げ水",
+        "releaseDate": "2017-8-9",
+        "lyricsUri": "http://www.uta-net.com/song/234004/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51fjKQ-Q1NL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "アンダー",
+        "releaseVersion": "18th 逃げ水",
+        "releaseDate": "2017-8-9",
+        "lyricsUri": "http://www.uta-net.com/song/234003/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51eVJyjl-GL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://youtu.be/qIuWXDt2o18?list=PLDUMgL1jIEfMcaJcz082WS8TxcTlexJKz",
+        "type": "B"
+    },
+    {
+        "title": "ライブ神",
+        "releaseVersion": "18th 逃げ水",
+        "releaseDate": "2017-8-9",
+        "lyricsUri": "http://www.uta-net.com/song/234002/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51oF0DEhJmL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://youtu.be/xdEsnmi3ffA?list=PLDUMgL1jIEfMcaJcz082WS8TxcTlexJKz",
+        "type": "C"
+    },
+    {
+        "title": "未来の答え",
+        "releaseVersion": "18th 逃げ水",
+        "releaseDate": "2017-8-9",
+        "lyricsUri": "http://www.uta-net.com/song/234001/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/518LKVhnnXL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://youtu.be/_iXcG20p-b4?list=PLDUMgL1jIEfMcaJcz082WS8TxcTlexJKz",
+        "type": "D"
+    },
+    {
+        "title": "泣いたっていいじゃないか?",
+        "releaseVersion": "18th 逃げ水",
+        "releaseDate": "2017-8-9",
+        "lyricsUri": "http://www.uta-net.com/song/234005/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61sgGoK69ZL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "",
+        "type": "None"
+    },
+    {
         "title": "インフルエンサー",
         "releaseVersion": "17th インフルエンサー",
         "releaseDate": "2017-3-21",

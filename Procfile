@@ -1,0 +1,1 @@
+web:java $JAVA_OPTS -jar lib/ target/payara-micro-4.1.2.173.jar target/*.war

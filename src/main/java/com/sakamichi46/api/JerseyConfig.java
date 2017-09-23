@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
  * @author kikuta
  */
 @Component
-@ApplicationPath("api")
+@ApplicationPath("sakamichi46api/api")
 public class JerseyConfig extends ResourceConfig {
 
     public JerseyConfig() {

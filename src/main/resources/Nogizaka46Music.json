@@ -1,5 +1,68 @@
 [
     {
+        "title": "いつかできるから今日できる",
+        "releaseVersion": "19th いつかできるから今日できる",
+        "releaseDate": "2017-10-11",
+        "lyricsUri": "http://www.uta-net.com/song/237683/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61cdIQ1h0cL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=kVxljIgOKXo&list=PLDUMgL1jIEfMcaJcz",
+        "type": "A"
+    },
+    {
+        "title": "不眠症",
+        "releaseVersion": "19th いつかできるから今日できる",
+        "releaseDate": "2017-10-11",
+        "lyricsUri": "http://www.uta-net.com/song/237682/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61cdIQ1h0cL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "まあいいか？",
+        "releaseVersion": "19th いつかできるから今日できる",
+        "releaseDate": "2017-10-11",
+        "lyricsUri": "https://www.uta-net.com/song/237680/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61cdIQ1h0cL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=sWtiYErXz-w&list=PLDUMgL1jIEfMcaJcz",
+        "type": "A"
+    },
+    {
+        "title": "失恋お掃除人",
+        "releaseVersion": "19th いつかできるから今日できる",
+        "releaseDate": "2017-10-11",
+        "lyricsUri": "https://www.uta-net.com/song/237679/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61mSlheFVjL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=MQ4He2Spdoc&list=PLDUMgL1jIEfMcaJcz",
+        "type": "B"
+    },
+    {
+        "title": "My rule",
+        "releaseVersion": "19th いつかできるから今日できる",
+        "releaseDate": "2017-10-11",
+        "lyricsUri": "https://www.uta-net.com/song/237678/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61kITJ0siJL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=se2P80AM5uQ&list=PLDUMgL1jIEfMcaJcz",
+        "type": "C"
+    },
+    {
+        "title": "僕の衝動",
+        "releaseVersion": "19th いつかできるから今日できる",
+        "releaseDate": "2017-10-11",
+        "lyricsUri": "https://www.uta-net.com/song/237677/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/618-VtKgo%2BL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=7i0U9WdlHbA&list=PLDUMgL1jIEfMcaJcz",
+        "type": "D"
+    },
+    {
+        "title": "新しい花粉 ~ミュージカル「見知らぬ世界」より~",
+        "releaseVersion": "19th いつかできるから今日できる",
+        "releaseDate": "2017-10-11",
+        "lyricsUri": "https://www.uta-net.com/song/237681/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61t8sucCW8L._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "",
+        "type": "None"
+    },
+    {
         "title": "逃げ水",
         "releaseVersion": "18th 逃げ水",
         "releaseDate": "2017-8-9",

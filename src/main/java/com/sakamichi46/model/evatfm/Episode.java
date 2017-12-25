@@ -17,5 +17,6 @@ import lombok.Setter;
 public class Episode {
     private int number;
     private Date date;
-    private String revivalUrl;
+    private String episodeUrl;
+    private String keyword;
 }

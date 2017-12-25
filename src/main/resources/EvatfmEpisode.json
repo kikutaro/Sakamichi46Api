@@ -1,472 +1,487 @@
 [
 	{
-		"Number": "91",
-		"Date": "12-24",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=-WBplwgxg_E",
-		"": ""
+		"number": "91",
+		"date": "12-24-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=-WBplwgxg_E",
+		"keyword": "LED"
 	},
 	{
-		"Number": "90",
-		"Date": "12",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=Ib1ALvhlw0c",
-		"": ""
+		"number": "90",
+		"date": "12-17-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=Ib1ALvhlw0c",
+		"keyword": ""
 	},
 	{
-		"Number": "89",
-		"Date": "12-10",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=fVR5JxFI7c8",
-		"": ""
+		"number": "89",
+		"date": "12-10-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=fVR5JxFI7c8",
+		"keyword": ""
 	},
 	{
-		"Number": "88",
-		"Date": "12-03",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=LhHK7wHyapk",
-		"": ""
+		"number": "88",
+		"date": "12-03-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=LhHK7wHyapk",
+		"keyword": ""
 	},
 	{
-		"Number": "87",
-		"Date": "11-26",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=WDHsXh8FNB0",
-		"": ""
+		"number": "87",
+		"date": "11-26-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=WDHsXh8FNB0",
+		"keyword": ""
 	},
 	{
-		"Number": "86",
-		"Date": "11-19",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=_WIFNIPgDus",
-		"": ""
+		"number": "86",
+		"date": "11-19-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=_WIFNIPgDus",
+		"keyword": ""
 	},
 	{
-		"Number": "85",
-		"Date": "11-12",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=ONK4aJPdMjw",
-		"": ""
+		"number": "85",
+		"date": "11-12-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=ONK4aJPdMjw",
+		"keyword": ""
 	},
 	{
-		"Number": "84",
-		"Date": "11-05",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=gTsK0ep917M",
-		"": ""
+		"number": "84",
+		"date": "11-05-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=gTsK0ep917M",
+		"keyword": ""
 	},
 	{
-		"Number": "83",
-		"Date": "10-29",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=vWm9f_scdlw",
-		"": ""
+		"number": "83",
+		"date": "10-29-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=vWm9f_scdlw",
+		"keyword": ""
 	},
 	{
-		"Number": "82",
-		"Date": "10-22",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=y3i_x3t0Y4U",
-		"": ""
+		"number": "82",
+		"date": "10-22-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=y3i_x3t0Y4U",
+		"keyword": ""
 	},
 	{
-		"Number": "81",
-		"Date": "10-15",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=qPEJTsI-eqc",
-		"": ""
+		"number": "81",
+		"date": "10-15-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=qPEJTsI-eqc",
+		"keyword": ""
 	},
 	{
-		"Number": "80",
-		"Date": "10-08",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=m7dYHXeVDII",
-		"": ""
+		"number": "80",
+		"date": "10-08-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=m7dYHXeVDII",
+		"keyword": ""
 	},
 	{
-		"Number": "79",
-		"Date": "10-01",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=RxqcHU7de9g",
-		"": ""
+		"number": "79",
+		"date": "10-01-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=RxqcHU7de9g",
+		"keyword": ""
 	},
 	{
-		"Number": "78",
-		"Date": "09-24",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=2UCGqzS371w",
-		"": ""
+		"number": "78",
+		"date": "09-24-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=2UCGqzS371w",
+		"keyword": ""
 	},
 	{
-		"Number": "77",
-		"Date": "09-17",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=B4LkSfNQjsM",
-		"": ""
+		"number": "77",
+		"date": "09-17-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=B4LkSfNQjsM",
+		"keyword": ""
 	},
 	{
-		"Number": "76",
-		"Date": "09-10",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=fLrbG55mOVw"
+		"number": "76",
+		"date": "09-10-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=fLrbG55mOVw"
 	},
 	{
-		"Number": "75",
-		"Date": "09-03",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=uOO1qp6eO1s"
+		"number": "75",
+		"date": "09-03-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=uOO1qp6eO1s"
 	},
 	{
-		"Number": "74",
-		"Date": "08-27",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=-4RMzoxNEBg"
+		"number": "74",
+		"date": "08-27-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=-4RMzoxNEBg"
 	},
 	{
-		"Number": "73",
-		"Date": "08-20",
-		"EpisodeUrl": ""
+		"number": "73",
+		"date": "08-20-17",
+		"episodeUrl": ""
 	},
 	{
-		"Number": "72",
-		"Date": "08-13",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=0WyTOLSVZNQ"
+		"number": "72",
+		"date": "08-13-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=0WyTOLSVZNQ"
 	},
 	{
-		"Number": "71",
-		"Date": "08-06",
-		"EpisodeUrl": ""
+		"number": "71",
+		"date": "08-06-17",
+		"episodeUrl": ""
 	},
 	{
-		"Number": "70",
-		"Date": "07-30",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=fV8SghxsEog"
+		"number": "70",
+		"date": "07-30-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=fV8SghxsEog"
 	},
 	{
-		"Number": "69",
-		"Date": "07-23",
-		"EpisodeUrl": ""
+		"number": "69",
+		"date": "07-23-17",
+		"episodeUrl": ""
 	},
 	{
-		"Number": "68",
-		"Date": "07-16",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=69EyiHV56-M"
+		"number": "68",
+		"date": "07-16-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=69EyiHV56-M"
 	},
 	{
-		"Number": "67",
-		"Date": "07-09",
-		"EpisodeUrl": ""
+		"number": "67",
+		"date": "07-09-17",
+		"episodeUrl": ""
 	},
 	{
-		"Number": "66",
-		"Date": "07-02",
-		"EpisodeUrl": ""
+		"number": "66",
+		"date": "07-02-17",
+		"episodeUrl": ""
 	},
 	{
-		"Number": "65",
-		"Date": "06-25",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=3zOgZY2gYn8"
+		"number": "65",
+		"date": "06-25-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=3zOgZY2gYn8"
 	},
 	{
-		"Number": "64",
-		"Date": "06-18",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=IKG1oJTJOfI"
+		"number": "64",
+		"date": "06-18-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=IKG1oJTJOfI"
 	},
 	{
-		"Number": "63",
-		"Date": "06-11",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=NYgtvdEPF00"
+		"number": "63",
+		"date": "06-11-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=NYgtvdEPF00"
 	},
 	{
-		"Number": "62",
-		"Date": "06-04",
-		"EpisodeUrl": ""
+		"number": "62",
+		"date": "06-04-17",
+		"episodeUrl": ""
 	},
 	{
-		"Number": "61",
-		"Date": "05-28",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=OV3WghI7Jkg"
+		"number": "61",
+		"date": "05-28-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=OV3WghI7Jkg"
 	},
 	{
-		"Number": "60",
-		"Date": "05-21",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=BSgcL6hK5i4"
+		"number": "60",
+		"date": "05-21-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=BSgcL6hK5i4"
 	},
 	{
-		"Number": "59",
-		"Date": "05-14",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=8jQu4vDag-I"
+		"number": "59",
+		"date": "05-14-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=8jQu4vDag-I"
 	},
 	{
-		"Number": "58",
-		"Date": "05-07",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=b8pGCQKKgNE"
+		"number": "58",
+		"date": "05-07-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=b8pGCQKKgNE"
 	},
 	{
-		"Number": "57",
-		"Date": "04-30",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=ed0KOEvZIyk"
+		"number": "57",
+		"date": "04-30-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=ed0KOEvZIyk"
 	},
 	{
-		"Number": "56",
-		"Date": "04-23",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=ed0KOEvZIyk"
+		"number": "56",
+		"date": "04-23-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=ed0KOEvZIyk"
 	},
 	{
-		"Number": "55",
-		"Date": "04-16",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=ed0KOEvZIyk"
+		"number": "55",
+		"date": "04-16-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=ed0KOEvZIyk"
 	},
 	{
-		"Number": "54",
-		"Date": "04-09",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=ed0KOEvZIyk"
+		"number": "54",
+		"date": "04-09-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=ed0KOEvZIyk"
 	},
 	{
-		"Number": "53",
-		"Date": "04-02",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=ed0KOEvZIyk"
+		"number": "53",
+		"date": "04-02-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=ed0KOEvZIyk"
 	},
 	{
-		"Number": "52",
-		"Date": "03-26",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=KQsiBjx4gBY"
+		"number": "52",
+		"date": "03-26-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=KQsiBjx4gBY"
 	},
 	{
-		"Number": "51",
-		"Date": "03-19",
-		"EpisodeUrl": ""
+		"number": "51",
+		"date": "03-19-17",
+		"episodeUrl": ""
 	},
 	{
-		"Number": "50",
-		"Date": "03-12",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=Vqru1EXzOWU"
+		"number": "50",
+		"date": "03-12-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=Vqru1EXzOWU"
 	},
 	{
-		"Number": "49",
-		"Date": "03-05",
-		"EpisodeUrl": ""
+		"number": "49",
+		"date": "03-05-17",
+		"episodeUrl": ""
 	},
 	{
-		"Number": "48",
-		"Date": "02-26",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=doTOiqbKUQs"
+		"number": "48",
+		"date": "02-26-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=doTOiqbKUQs"
 	},
 	{
-		"Number": "47",
-		"Date": "02-19",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=doTOiqbKUQs"
+		"number": "47",
+		"date": "02-19-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=doTOiqbKUQs"
 	},
 	{
-		"Number": "46",
-		"Date": "02-12",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=j-o2saSTeto"
+		"number": "46",
+		"date": "02-12-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=j-o2saSTeto"
 	},
 	{
-		"Number": "45",
-		"Date": "02-05",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=GEWQg3Hbmh0"
+		"number": "45",
+		"date": "02-05-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=GEWQg3Hbmh0"
 	},
 	{
-		"Number": "44",
-		"Date": "01-29",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=MFh04GKIY_g"
+		"number": "44",
+		"date": "01-29-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=MFh04GKIY_g"
 	},
 	{
-		"Number": "43",
-		"Date": "01-22",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=gedm-23ZW_s"
+		"number": "43",
+		"date": "01-22-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=gedm-23ZW_s"
 	},
 	{
-		"Number": "42",
-		"Date": "01-15",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=04mPITBuy00"
+		"number": "42",
+		"date": "01-15-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=04mPITBuy00"
 	},
 	{
-		"Number": "41",
-		"Date": "01-08",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=MFh04GKIY_g"
+		"number": "41",
+		"date": "01-08-17",
+		"episodeUrl": "https://www.youtube.com/watch?v=MFh04GKIY_g"
 	},
 	{
-		"Number": "40",
-		"Date": "01-01",
-		"EpisodeUrl": ""
+		"number": "40",
+		"date": "01-01-17",
+		"episodeUrl": ""
 	},
 	{
-		"Number": "39",
-		"Date": "12-25",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=8tAkubvi6I8"
+		"number": "39",
+		"date": "12-25-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=8tAkubvi6I8"
 	},
 	{
-		"Number": "38",
-		"Date": "12-18",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=8tAkubvi6I8"
+		"number": "38",
+		"date": "12-18-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=8tAkubvi6I8"
 	},
 	{
-		"Number": "37",
-		"Date": "12-11",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=8tAkubvi6I8"
+		"number": "37",
+		"date": "12-11-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=8tAkubvi6I8"
 	},
 	{
-		"Number": "36",
-		"Date": "12-04",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=8tAkubvi6I8"
+		"number": "36",
+		"date": "12-04-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=8tAkubvi6I8"
 	},
 	{
-		"Number": "35",
-		"Date": "11-27",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=hb2m3A40DIc"
+		"number": "35",
+		"date": "11-27-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=hb2m3A40DIc"
 	},
 	{
-		"Number": "34",
-		"Date": "11-20",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=hb2m3A40DIc"
+		"number": "34",
+		"date": "11-20-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=hb2m3A40DIc"
 	},
 	{
-		"Number": "33",
-		"Date": "11-13",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=hb2m3A40DIc"
+		"number": "33",
+		"date": "11-13-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=hb2m3A40DIc"
 	},
 	{
-		"Number": "32",
-		"Date": "11-06",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=hb2m3A40DIc"
+		"number": "32",
+		"date": "11-06-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=hb2m3A40DIc"
 	},
 	{
-		"Number": "31",
-		"Date": "10-30",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=Rg9RNxsE7DA"
+		"number": "31",
+		"date": "10-30-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=Rg9RNxsE7DA"
 	},
 	{
-		"Number": "30",
-		"Date": "10-23",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=p-K10vgu7O8"
+		"number": "30",
+		"date": "10-23-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=p-K10vgu7O8"
 	},
 	{
-		"Number": "29",
-		"Date": "10-16",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=EC-A8V_TDvM"
+		"number": "29",
+		"date": "10-16-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=EC-A8V_TDvM"
 	},
 	{
-		"Number": "28",
-		"Date": "10-09",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=kOLJvXe0qHI"
+		"number": "28",
+		"date": "10-09-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=kOLJvXe0qHI"
 	},
 	{
-		"Number": "27",
-		"Date": "10-02",
-		"EpisodeUrl": ""
+		"number": "27",
+		"date": "10-02-16",
+		"episodeUrl": ""
 	},
 	{
-		"Number": "26",
-		"Date": "09-25",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=Nfq6lWYi3XY"
+		"number": "26",
+		"date": "09-25-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=Nfq6lWYi3XY"
 	},
 	{
-		"Number": "25",
-		"Date": "09-18",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=CwM6dpDQB4Y"
+		"number": "25",
+		"date": "09-18-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=CwM6dpDQB4Y"
 	},
 	{
-		"Number": "24",
-		"Date": "09-11",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=Vim8oHWH1Lo"
+		"number": "24",
+		"date": "09-11-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=Vim8oHWH1Lo"
 	},
 	{
-		"Number": "23",
-		"Date": "09-04",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=LUEJNwisMis"
+		"number": "23",
+		"date": "09-04-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=LUEJNwisMis"
 	},
 	{
-		"Number": "22",
-		"Date": "08-28",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=4qs0NLlxiWA"
+		"number": "22",
+		"date": "08-28-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=4qs0NLlxiWA"
 	},
 	{
-		"Number": "21",
-		"Date": "08-21",
-		"EpisodeUrl": ""
+		"number": "21",
+		"date": "08-21-16",
+		"episodeUrl": ""
 	},
 	{
-		"Number": "20",
-		"Date": "08-14",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=qn-3WQ3Liok"
+		"number": "20",
+		"date": "08-14-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=qn-3WQ3Liok"
 	},
 	{
-		"Number": "19",
-		"Date": "08-07",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=9ck1bcFbFh4"
+		"number": "19",
+		"date": "08-07-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=9ck1bcFbFh4"
 	},
 	{
-		"Number": "18",
-		"Date": "07-31",
-		"EpisodeUrl": ""
+		"number": "18",
+		"date": "07-31-16",
+		"episodeUrl": ""
 	},
 	{
-		"Number": "17",
-		"Date": "07-24",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=8H9cKxQgML8"
+		"number": "17",
+		"date": "07-24-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=8H9cKxQgML8"
 	},
 	{
-		"Number": "16",
-		"Date": "07-17",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=1_MPxIWYdgQ&t=560s"
+		"number": "16",
+		"date": "07-17-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=1_MPxIWYdgQ&t=560s"
 	},
 	{
-		"Number": "15",
-		"Date": "07-10",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=kkHwi5X5sJ8"
+		"number": "15",
+		"date": "07-10-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=kkHwi5X5sJ8"
 	},
 	{
-		"Number": "14",
-		"Date": "07-03",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=LbgFAoY5QpU"
+		"number": "14",
+		"date": "07-03-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=LbgFAoY5QpU"
 	},
 	{
-		"Number": "13",
-		"Date": "06-26",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=YduDkHd1444"
+		"number": "13",
+		"date": "06-26-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=YduDkHd1444"
 	},
 	{
-		"Number": "12",
-		"Date": "06-19",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=Kub1fqsJSkc"
+		"number": "12",
+		"date": "06-19-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=Kub1fqsJSkc",
+		"keyword": ""
 	},
 	{
-		"Number": "11",
-		"Date": "06-12",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=m0yFnTC1F1E"
+		"number": "11",
+		"date": "06-12-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=m0yFnTC1F1E",
+		"keyword": ""
 	},
 	{
-		"Number": "10",
-		"Date": "06-05",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=Sm8xCCn8Xc4"
+		"number": "10",
+		"date": "06-05-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=Sm8xCCn8Xc4",
+		"keyword": ""
 	},
 	{
-		"Number": "9",
-		"Date": "05-29",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=bJYPdJEHYwc"
+		"number": "9",
+		"date": "05-29-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=bJYPdJEHYwc",
+		"keyword": ""
 	},
 	{
-		"Number": "8",
-		"Date": "05-22",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=BMgYaJK3jsc"
+		"number": "8",
+		"date": "05-22-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=BMgYaJK3jsc",
+		"keyword": ""
 	},
 	{
-		"Number": "7",
-		"Date": "05-15",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=KTYumoS1G3w&t=108s"
+		"number": "7",
+		"date": "05-15-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=KTYumoS1G3w&t=108s",
+		"keyword": ""
 	},
 	{
-		"Number": "6",
-		"Date": "05-08",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=0M6r3z0BAnY"
+		"number": "6",
+		"date": "05-08-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=0M6r3z0BAnY",
+		"keyword": ""
 	},
 	{
-		"Number": "5",
-		"Date": "05-01",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=pSO1fBxQ0HI"
+		"number": "5",
+		"date": "05-01-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=pSO1fBxQ0HI",
+		"keyword": ""
 	},
 	{
-		"Number": "4",
-		"Date": "04-24",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=AmpxVuaVlC0&t=1070s"
+		"number": "4",
+		"date": "04-24-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=AmpxVuaVlC0&t=1070s",
+		"keyword": ""
 	},
 	{
-		"Number": "3",
-		"Date": "04-17",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=NDgazLnPQNQ&t=981s"
+		"number": "3",
+		"date": "04-17-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=NDgazLnPQNQ&t=981s",
+		"keyword": ""
 	},
 	{
-		"Number": "2",
-		"Date": "04-10",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=w-POkzXLnN4"
+		"number": "2",
+		"date": "04-10-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=w-POkzXLnN4",
+		"keyword": ""
 	},
 	{
-		"Number": "1",
-		"Date": "04-03",
-		"EpisodeUrl": "https://www.youtube.com/watch?v=gtA_RrsOQrA"
+		"number": "1",
+		"date": "04-03-16",
+		"episodeUrl": "https://www.youtube.com/watch?v=gtA_RrsOQrA",
+		"keyword": "First"
+	},
+	{
+		"number": ""
 	}
 ]

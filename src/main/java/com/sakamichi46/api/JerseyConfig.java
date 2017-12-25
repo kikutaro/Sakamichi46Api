@@ -22,6 +22,7 @@ public class JerseyConfig extends ResourceConfig {
         register(Keyakizaka46Resource.class);
         register(Nogizaka46Resource.class);
         register(Nogizaka46ThirdResource.class);
+        register(EvatfmResource.class);
     }
 
 }

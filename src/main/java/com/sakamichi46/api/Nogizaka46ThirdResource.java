@@ -8,20 +8,18 @@ import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.annotation.PostConstruct;
-import javax.ejb.Singleton;
-import javax.ejb.Startup;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
+import org.springframework.stereotype.Component;
 
 /**
  * Nogizaka46 3rd members resource.
  * 
  * @author kikuta
  */
-@Startup
-@Singleton
+@Component
 @Path("nogizaka46/3rd")
 public class Nogizaka46ThirdResource extends AbstractSakamichi46Resource {
     

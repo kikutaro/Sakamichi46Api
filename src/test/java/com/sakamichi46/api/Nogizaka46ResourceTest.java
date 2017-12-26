@@ -1,128 +1,76 @@
 package com.sakamichi46.api;
 
-import com.sakamichi46.config.ApplicationConfig;
 import com.sakamichi46.model.Member;
-import com.sakamichi46.model.Music;
-import java.io.File;
 import java.net.MalformedURLException;
-import java.net.URL;
 import java.time.LocalDate;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
-import java.util.List;
-import javax.ws.rs.core.GenericType;
-import javax.ws.rs.core.Response;
 import static org.hamcrest.CoreMatchers.is;
-import org.jboss.arquillian.container.test.api.Deployment;
-import org.jboss.arquillian.container.test.api.RunAsClient;
-import org.jboss.arquillian.junit.Arquillian;
-import org.jboss.arquillian.test.api.ArquillianResource;
-import org.jboss.resteasy.client.jaxrs.ResteasyClientBuilder;
-import org.jboss.shrinkwrap.api.ShrinkWrap;
-import org.jboss.shrinkwrap.api.spec.JavaArchive;
 import static org.junit.Assert.assertThat;
 import org.junit.Test;
 import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.boot.test.web.client.TestRestTemplate;
+import org.springframework.http.ResponseEntity;
+import org.springframework.test.context.junit4.SpringRunner;
 
 /**
  * Test for Nogizaka46 API.
  * 
  * @author kikuta
  */
-@RunWith(Arquillian.class)
+@RunWith(SpringRunner.class)
+@SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 public class Nogizaka46ResourceTest {
     
-    @Deployment
-    public static JavaArchive createDeployment() {
-        return ShrinkWrap.create(JavaArchive.class)
-                .addClass(AbstractSakamichi46Resource.class)
-                .addClass(HiraganaKeyakiResource.class)
-                .addClass(Keyakizaka46Resource.class)
-                .addClass(Nogizaka46Resource.class)
-                .addClass(Nogizaka46ThirdResource.class)
-                .addClass(ApplicationConfig.class)
-                .addClass(Member.class)
-                .addClass(Music.class)
-                .addAsDirectory("WEB-INF/classes")
-                .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Hiraganakeyaki.json"))
-                .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Keyakizaka46.json"))
-                .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Nogizaka46.json"))
-                .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Nogizaka46Music.json"))
-                .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Keyakizaka46Music.json"))
-                .addAsResource(new File("src/main/webapp/WEB-INF/classes/", "Nogizaka46Third.json"));
-    }
-    
-    @ArquillianResource
-    private URL base;
+    @Autowired
+    private TestRestTemplate restTemplate;
     
     @Test
-    @RunAsClient
     public void Nogizaka46OfficialBlogUrlTest() throws MalformedURLException {
-        Response res = ResteasyClientBuilder.newBuilder().build().target(new URL(base, "api/nogizaka46/blog").toExternalForm()).request().get();
-        assertThat(res.readEntity(String.class), is("http://www.nogizaka46.com/"));
+        ResponseEntity<String> blogUrl = this.restTemplate.getForEntity("/sakamichi46api/api/nogizaka46/blog", String.class);
+        assertThat(blogUrl.getBody(), is("http://www.nogizaka46.com/"));
     }
     
     @Test
-    @RunAsClient
     public void Nogizaka46OfficialBlogMobileUrlTest() throws MalformedURLException {
-        Response get = ResteasyClientBuilder.newBuilder().build().target(new URL(base, "api/nogizaka46/blog/mobile").toExternalForm()).request().get();
-        assertThat(get.readEntity(String.class), is("http://www.nogizaka46.com/smph/"));
+        ResponseEntity<String> blogUrl = this.restTemplate.getForEntity("/sakamichi46api/api/nogizaka46/blog/mobile", String.class);
+        assertThat(blogUrl.getBody(), is("http://www.nogizaka46.com/smph/"));
     }
     
     @Test
-    @RunAsClient
     public void Nogizaka46OfficialGoodsUrlTest() throws MalformedURLException {
-        Response get = ResteasyClientBuilder.newBuilder().build().target(new URL(base, "api/nogizaka46/goods").toExternalForm()).request().get();
-        assertThat(get.readEntity(String.class), is("http://www.nogizaka46shop.com/"));
+        ResponseEntity<String> goodsUrl = this.restTemplate.getForEntity("/sakamichi46api/api/nogizaka46/goods", String.class);
+        assertThat(goodsUrl.getBody(), is("http://www.nogizaka46shop.com/"));
     }
     
     @Test
-    @RunAsClient
     public void Nogizaka46OfficialGoodsMobileUrlTest() throws MalformedURLException {
-        Response get = ResteasyClientBuilder.newBuilder().build().target(new URL(base, "api/nogizaka46/goods/mobile").toExternalForm()).request().get();
-        assertThat(get.readEntity(String.class), is("http://www.nogizaka46shop.com/msp/"));
+        ResponseEntity<String> goodsMobileUrl = this.restTemplate.getForEntity("/sakamichi46api/api/nogizaka46/goods/mobile", String.class);
+        assertThat(goodsMobileUrl.getBody(), is("http://www.nogizaka46shop.com/msp/"));
     }
     
     @Test
-    @RunAsClient
     public void Nogizaka46MatomeUrlTest() throws MalformedURLException {
-        Response get = ResteasyClientBuilder.newBuilder().build().target(new URL(base, "api/nogizaka46/matome").toExternalForm()).request().get();
-        assertThat(get.readEntity(String.class), is("http://nogizaka46democracy.blog.jp/"));
+        ResponseEntity<String> matomeUrl = this.restTemplate.getForEntity("/sakamichi46api/api/nogizaka46/matome", String.class);
+        assertThat(matomeUrl.getBody(), is("http://nogizaka46democracy.blog.jp/"));
     }
     
     @Test
-    @RunAsClient
     public void Nogizaka46MemberProfileUrlTest() throws MalformedURLException {
-        Member maiShiraishi = ResteasyClientBuilder.newBuilder().build()
-                .target(new URL(base, "api/nogizaka46/profile/shiraishimai").toExternalForm())
-                .request().get().readEntity(Member.class);
-        assertThat(maiShiraishi.getName(), is("白石麻衣"));
+        ResponseEntity<Member> maiShiraishi = this.restTemplate.getForEntity("/sakamichi46api/api/nogizaka46/profile/shiraishimai", Member.class);
+        assertThat(maiShiraishi.getBody().getName(), is("白石麻衣"));
         DateTimeFormatter dateformat = DateTimeFormatter.ofPattern("yyyy/MM/dd");
         assertThat(
-                maiShiraishi.getBirthday().toInstant().atZone(ZoneId.systemDefault()).toLocalDate().format(dateformat),
+                maiShiraishi.getBody().getBirthday().toInstant().atZone(ZoneId.systemDefault()).toLocalDate().format(dateformat),
                 is(LocalDate.of(1992, 8, 20).format(dateformat)));
-        assertThat(maiShiraishi.getBloodType(), is("A"));
-        assertThat(maiShiraishi.getConstellation(), is("しし座"));
-        assertThat(maiShiraishi.getProfilePhotoUri(), is("http://img.nogizaka46.com/www/member/img/shiraishimai_prof.jpg"));
-        assertThat(maiShiraishi.getBlogUri(), is("http://blog.nogizaka46.com/mai.shiraishi/smph/"));
-        assertThat(maiShiraishi.getTvUri(), is("https://talent.thetv.jp/person/1000082696/program/"));
-        assertThat(maiShiraishi.getGoodsUri(), is("http://www.nogizaka46shop.com/category/33"));
-        assertThat(maiShiraishi.getMatomeUri().get(0), is("http://nogizaka46democracy.blog.jp/archives/cat_51850.html"));
-    }
-    
-    @Test
-    @RunAsClient
-    public void Nogizaka46MemberGraduateUrlTest() throws MalformedURLException {
-        List<Member> graduatesMembers = ResteasyClientBuilder.newBuilder().build()
-                .target(new URL(base, "api/nogizaka46/graduate").toExternalForm())
-                .request().get().readEntity(new GenericType<List<Member>>(){});
-        assertThat(graduatesMembers.size(), is(6));
-    }
-    
-    @Test
-    @RunAsClient
-    public void Nogizaka46MemberCountTest() throws MalformedURLException {
-        long count = ResteasyClientBuilder.newBuilder().build().target(new URL(base, "api/nogizaka46/count").toExternalForm()).request().get().readEntity(long.class);
-        assertThat(count, is(34L));
+        assertThat(maiShiraishi.getBody().getBloodType(), is("A"));
+        assertThat(maiShiraishi.getBody().getConstellation(), is("しし座"));
+        assertThat(maiShiraishi.getBody().getProfilePhotoUri(), is("http://img.nogizaka46.com/www/member/img/shiraishimai_prof.jpg"));
+        assertThat(maiShiraishi.getBody().getBlogUri(), is("http://blog.nogizaka46.com/mai.shiraishi/smph/"));
+        assertThat(maiShiraishi.getBody().getTvUri(), is("https://talent.thetv.jp/person/1000082696/program/"));
+        assertThat(maiShiraishi.getBody().getGoodsUri(), is("http://www.nogizaka46shop.com/category/33"));
+        assertThat(maiShiraishi.getBody().getMatomeUri().get(0), is("http://nogizaka46democracy.blog.jp/archives/cat_51850.html"));
     }
 }

@@ -1,1 +1,0 @@
-web: java -jar lib/payara-micro-4.1.2.173.jar target/*.war --port $PORT

@@ -1,86 +1,107 @@
 [
 	{
 		"date": "2017-12",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201712"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201712",
+                "description": "Episode 88 - Episode 91"
 	},
 	{
 		"date": "2017-11",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201711"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201711",
+                "description": "Episode 84 - Episode 87"
 	},
 	{
 		"date": "2017-10",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201710"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201710",
+                "description": "Episode 79 - Episode 83"
 	},
 	{
 		"date": "2017-9",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201709"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201709",
+                "description": "Episode 75 - Episode 78"
 	},
 	{
 		"date": "2017-8",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201708"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201708",
+                "description": "Episode 71 - Episode 74"
 	},
 	{
 		"date": "2017-7",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201707"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201707",
+                "description": "Episode 66 - Episode 70"
 	},
 	{
 		"date": "2017-6",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201706"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201706",
+                "description": "Episode 62 - Episode 65"
 	},
 	{
 		"date": "2017-5",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201705"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201705",
+                "description": "Episode 58 - Episode 61"
 	},
 	{
 		"date": "2017-4",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201704"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201704",
+                "description": "Episode 53 - Episode 57"
 	},
 	{
 		"date": "2017-3",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201703"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201703",
+                "description": "Episode 49 - Episode 52"
 	},
 	{
 		"date": "2017-2",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201702"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201702",
+                "description": "Episode 45 - Episode 48"
 	},
 	{
 		"date": "2017-1",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201701"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201701",
+                "description": "Episode 40 - Episode 44"
 	},
 	{
 		"date": "2016-12",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201612"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201612",
+                "description": "Episode 36 - Episode 39"
 	},
 	{
 		"date": "2016-11",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201611"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201611",
+                "description": "Episode 32 - Episode 35"
 	},
 	{
 		"date": "2016-10",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201610"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201610",
+                "description": "Episode 27 - Episode 31"
 	},
 	{
 		"date": "2016-9",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201609"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201609",
+                "description": "Episode 23 - Episode 26"
 	},
 	{
 		"date": "2016-8",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201608"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201608",
+                "description": "Episode 19 - Episode 22"
 	},
 	{
 		"date": "2016-7",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201607"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201607",
+                "description": "Episode 14 - Episode 18"
 	},
 	{
 		"date": "2016-6",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201606"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201606",
+                "description": "Episode 10 - Episode 13"
 	},
 	{
 		"date": "2016-5",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201605"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201605",
+                "description": "Episode 5 - Episode 9"
 	},
 	{
 		"date": "2016-4",
-		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201604"
+		"podcastUrl": "http://www.tfm.co.jp/podcasts/eva/month.php?month=201604",
+                "description": "Episode 1 - Episode 4"
 	}
 ]

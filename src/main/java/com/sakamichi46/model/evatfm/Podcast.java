@@ -19,4 +19,5 @@ public class Podcast {
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM")
     private Date date;
     private String podcastUrl;
+    private String description;
 }

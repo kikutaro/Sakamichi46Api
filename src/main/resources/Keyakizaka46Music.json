@@ -1,5 +1,68 @@
 [
     {
+        "title": "風に吹かれても",
+        "releaseVersion": "5th 風に吹かれても",
+        "releaseDate": "2017-10-25",
+        "lyricsUri": "https://www.uta-net.com/song/238404/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/510Bv6LJhlL._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=Xl-iDUt7U24&index=4&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "A"
+    },
+    {
+        "title": "結局、じゃあねしか言えない",
+        "releaseVersion": "5th 風に吹かれても",
+        "releaseDate": "2017-10-25",
+        "lyricsUri": "https://www.uta-net.com/song/238401/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/510Bv6LJhlL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "それでも歩いてる",
+        "releaseVersion": "5th 風に吹かれても",
+        "releaseDate": "2017-10-25",
+        "lyricsUri": "https://www.uta-net.com/song/238403/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/510Bv6LJhlL._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=wKKX33ddorw&index=3&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "A"
+    },
+    {
+        "title": "NO WAR in the future",
+        "releaseVersion": "5th 風に吹かれても",
+        "releaseDate": "2017-10-25",
+        "lyricsUri": "https://www.uta-net.com/song/238400/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61K9bTwJckL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "B"
+    },
+    {
+        "title": "避雷針",
+        "releaseVersion": "5th 風に吹かれても",
+        "releaseDate": "2017-10-25",
+        "lyricsUri": "https://www.uta-net.com/song/238399/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61rCHdJQtEL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "C"
+    },
+    {
+        "title": "波打ち際を走らないか?",
+        "releaseVersion": "5th 風に吹かれても",
+        "releaseDate": "2017-10-25",
+        "lyricsUri": "https://www.uta-net.com/song/238398/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61xxvyHIQdL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "D"
+    },
+    {
+        "title": "再生する細胞",
+        "releaseVersion": "5th 風に吹かれても",
+        "releaseDate": "2017-10-25",
+        "lyricsUri": "https://www.uta-net.com/song/238402/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61jDqgWSLeL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "None"
+    },
+    {
         "title": "不協和音",
         "releaseVersion": "4th 不協和音",
         "releaseDate": "2017-04-05",
@@ -232,5 +295,149 @@
         "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61XX3s%2BZITL._AC_UL70_SR70.69_.jpg",
         "officialMovieUri": "",
         "type": "None"
+    },
+    {
+        "title": "月曜日の朝、スカートを切られた",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232907/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51bIFYreqJL._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=j89r0SNk9hs&index=5&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "A"
+    },
+    {
+        "title": "少女には戻れない",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232906/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51bIFYreqJL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "東京タワーはどこから見える?",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232905/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51bIFYreqJL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "100年待てば",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232904/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51bIFYreqJL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "沈黙した恋人よ",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232903/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51bIFYreqJL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "猫の名前",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232902/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51bIFYreqJL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "太陽は見上げる人を選ばない",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232901/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51bIFYreqJL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "危なっかしい計画",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232900/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51bIFYreqJL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "自分の棺",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232899/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51bIFYreqJL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "君をもう探さない",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232898/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51HshLqArxL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "B"
+    },
+    {
+        "title": "夏の花は向日葵だけじゃない",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232897/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51HshLqArxL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "B"
+    },
+    {
+        "title": "1行だけのエアメール",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232896/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51HshLqArxL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "B"
+    },
+    {
+        "title": "AM1:27",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232895/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51HshLqArxL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "B"
+    },
+    {
+        "title": "ここにない足跡",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232894/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51HshLqArxL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "B"
+    },
+    {
+        "title": "永遠の白線",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232893/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51HshLqArxL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "B"
+    },
+    {
+        "title": "バレエと少年",
+        "releaseVersion": "1stAlbum 真っ白なものは汚したくなる",
+        "releaseDate": "2017/7/19",
+        "lyricsUri": "https://www.uta-net.com/song/232892/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51HshLqArxL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "B"
     }
 ]

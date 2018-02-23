@@ -1,4 +1,40 @@
 [
+	{
+		"number": "99",
+		"date": "2018-02-18",
+		"episodeUrl": "https://www.youtube.com/watch?v=aWCBFhmkonA",
+		"keyword": "冬季オリンピック"
+	},
+	{
+		"number": "98",
+		"date": "2018-02-11",
+		"episodeUrl": "https://www.youtube.com/watch?v=wb1ag8xD9-U",
+		"keyword": "3Dプリンタ"
+	},
+	{
+		"number": "97",
+		"date": "2018-02-04",
+		"episodeUrl": "https://www.youtube.com/watch?v=BOjLwomFpvc",
+		"keyword": "若様軍団,自転車"
+	},
+	{
+		"number": "96",
+		"date": "2018-01-27",
+		"episodeUrl": "https://www.youtube.com/watch?v=2pRkwMgiqYQ",
+		"keyword": "宇宙開発"
+	},
+	{
+		"number": "95",
+		"date": "2018-01-20",
+		"episodeUrl": "https://www.youtube.com/watch?v=zXFD0aSQaZA",
+		"keyword": "郵便物"
+	},
+	{
+		"number": "94",
+		"date": "2018-01-13",
+		"episodeUrl": "https://www.youtube.com/watch?v=AjDFmQ0lgTU",
+		"keyword": "エンターテイメント,プロジェクションマッピング,触覚フィードバック"
+	},
         {
 		"number": "93",
 		"date": "2018-01-06",

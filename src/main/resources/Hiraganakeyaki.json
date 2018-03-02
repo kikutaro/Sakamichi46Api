@@ -143,5 +143,113 @@
         "matomeUri" : [
             "http://www.keyakizaka46matomerabo.com/archives/cat_244872.html"
             ]
+    },
+    "kanemuramiku" : {
+        "name": "金村美玖",
+        "birthday": "2002-9-10",
+        "bloodType": "O",
+        "constellation": "おとめ座",
+        "profilePhotoUri": "http://cdn.keyakizaka46.com/images/14/0f9/4e901e37da031ea5b37533d606bd3/400_320_102400.jpg",
+        "blogUri" : "http://www.keyakizaka46.com/s/k46o/diary/member/list?ima=0000&ct=1000",
+        "tvUri" : "https://talent.thetv.jp/person/2000028138/",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/category/%e4%ba%8c%e6%9c%9f%e7%94%9f/%e9%87%91%e6%9d%91%e7%be%8e%e7%8e%96"
+            ]
+    },
+    "kawatahina" : {
+        "name": "河田陽菜",
+        "birthday": "2001-7-23",
+        "bloodType": "B",
+        "constellation": "しし座",
+        "profilePhotoUri": "http://cdn.keyakizaka46.com/images/14/1e4/553ebde1d3a9df3c0f70664cfa849/400_320_102400.jpg",
+        "blogUri" : "http://www.keyakizaka46.com/s/k46o/diary/member/list?ima=0000&ct=1000",
+        "tvUri" : "https://talent.thetv.jp/person/2000028139/",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "kosakanao" : {
+        "name": "小坂菜緒",
+        "birthday": "2002-9-7",
+        "bloodType": "O",
+        "constellation": "おとめ座",
+        "profilePhotoUri": "http://cdn.keyakizaka46.com/images/14/825/743aa6721fb7a91c913ef172b519f/400_320_102400.jpg",
+        "blogUri" : "http://www.keyakizaka46.com/s/k46o/diary/member/list?ima=0000&ct=1000",
+        "tvUri" : "https://talent.thetv.jp/person/2000028140/",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/category/%e4%ba%8c%e6%9c%9f%e7%94%9f/%e5%b0%8f%e5%9d%82%e8%8f%9c%e7%b7%92"
+            ]
+    },
+    "tomitasuzuka" : {
+        "name": "富田鈴花",
+        "birthday": "2001-1-18",
+        "bloodType": "A",
+        "constellation": "やぎ座",
+        "profilePhotoUri": "http://cdn.keyakizaka46.com/images/14/3f6/961cfe69c0e7c4d4a3f978190934b/400_320_102400.jpg",
+        "blogUri" : "http://www.keyakizaka46.com/s/k46o/diary/member/list?ima=0000&ct=1000",
+        "tvUri" : "https://talent.thetv.jp/person/2000028142/",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "nibuakari" : {
+        "name": "丹生明里",
+        "birthday": "2001-2-15",
+        "bloodType": "AB",
+        "constellation": "みずがめ座",
+        "profilePhotoUri": "http://cdn.keyakizaka46.com/images/14/070/b57de2f8ed7327b4d15f2bade99cc/400_320_102400.jpg",
+        "blogUri" : "http://www.keyakizaka46.com/s/k46o/diary/member/list?ima=0000&ct=1000",
+        "tvUri" : "https://talent.thetv.jp/person/2000028143/",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/category/%e4%ba%8c%e6%9c%9f%e7%94%9f/%e4%b8%b9%e7%94%9f%e6%98%8e%e9%87%8c"
+            ]
+    },
+    "hamagishihiyori" : {
+        "name": "濱岸ひより",
+        "birthday": "2002-9-28",
+        "bloodType": "A",
+        "constellation": "てんびん座",
+        "profilePhotoUri": "http://cdn.keyakizaka46.com/images/14/e4b/d864a64caa65d4c1ca71b9761460f/400_320_102400.jpg",
+        "blogUri" : "http://www.keyakizaka46.com/s/k46o/diary/member/list?ima=0000&ct=1000",
+        "tvUri" : "https://talent.thetv.jp/person/2000028145/",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "matsudakonoka" : {
+        "name": "松田好花",
+        "birthday": "1999-4-27",
+        "bloodType": "A",
+        "constellation": "おうし座",
+        "profilePhotoUri": "http://cdn.keyakizaka46.com/images/14/f09/369adc0f78662dab1229900932519/400_320_102400.jpg",
+        "blogUri" : "http://www.keyakizaka46.com/s/k46o/diary/member/list?ima=0000&ct=1000",
+        "tvUri" : "https://talent.thetv.jp/person/2000028146/",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "miyatamanamo" : {
+        "name": "宮田愛萌",
+        "birthday": "1998-4-28",
+        "bloodType": "A",
+        "constellation": "おうし座",
+        "profilePhotoUri": "http://cdn.keyakizaka46.com/images/14/03b/61d9ae974914765aefad7c63aa427/400_320_102400.jpg",
+        "blogUri" : "http://www.keyakizaka46.com/s/k46o/diary/member/list?ima=0000&ct=1000",
+        "tvUri" : "https://talent.thetv.jp/person/2000028147/",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/category/%e4%ba%8c%e6%9c%9f%e7%94%9f/%e5%ae%ae%e7%94%b0%e6%84%9b%e8%90%8c"
+            ]
+    },
+    "watanabemiho" : {
+        "name": "渡邉美穂",
+        "birthday": "2000-2-24",
+        "bloodType": "A",
+        "constellation": "うお座",
+        "profilePhotoUri": "http://cdn.keyakizaka46.com/images/14/f96/1fd24318f12715c99e7d87e92afe8/400_320_102400.jpg",
+        "blogUri" : "http://www.keyakizaka46.com/s/k46o/diary/member/list?ima=0000&ct=1000",
+        "tvUri" : "https://talent.thetv.jp/person/2000028148/",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/category/%e4%ba%8c%e6%9c%9f%e7%94%9f/%e6%b8%a1%e9%82%89%e7%be%8e%e7%a9%82"
+            ]
     }
 }

@@ -75,7 +75,8 @@
         "goodsUri" : "http://www.nogizaka46shop.com/category/45",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_58345.html"
-            ]
+            ],
+        "graduateDate" : "2018-1-31"
     },
     "inouesayuri" : {
         "name": "井上小百合",
@@ -127,7 +128,8 @@
         "goodsUri" : "http://www.nogizaka46shop.com/category/41",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_112660.html"
-            ]
+            ],
+        "graduateDate" : "2018-3-31"
     },
     "kitanohinako" : {
         "name": "北野日奈子",
@@ -309,7 +311,8 @@
         "goodsUri" : "http://www.nogizaka46shop.com/category/27",
         "matomeUri" : [
             "http://nogizaka46democracy.blog.jp/archives/cat_57772.html"
-            ]
+            ],
+        "graduateDate" : "2018-1-31"
     },
     "nishinonanase" : {
         "name": "西野七瀬",

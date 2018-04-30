@@ -1,5 +1,68 @@
 [
     {
+        "title": "ガラスを割れ!",
+        "releaseVersion": "6th ガラスを割れ!",
+        "releaseDate": "2018-3-7",
+        "lyricsUri": "https://www.uta-net.com/song/245287/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/51EUZ4psQjL._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=A2k6ZO6B0A8&index=5&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "A"
+    },
+    {
+        "title": "もう森へ帰ろうか？",
+        "releaseVersion": "6th ガラスを割れ!",
+        "releaseDate": "2017-10-25",
+        "lyricsUri": "https://www.uta-net.com/song/245286/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/510Bv6LJhlL._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=f7wTsLBIeC8&index=3&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "A"
+    },
+    {
+        "title": "夜明けの孤独",
+        "releaseVersion": "6th ガラスを割れ!",
+        "releaseDate": "2017-10-25",
+        "lyricsUri": "https://www.uta-net.com/song/245284/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/510Bv6LJhlL._AC_UL115_.jpg",
+        "officialMovieUri": "",
+        "type": "A"
+    },
+    {
+        "title": "イマニミテイロ",
+        "releaseVersion": "6th ガラスを割れ!",
+        "releaseDate": "2017-10-25",
+        "lyricsUri": "https://www.uta-net.com/song/245283/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61ityWYjSyL._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=9eb5r0f5UCk&index=2&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "B"
+    },
+    {
+        "title": "ゼンマイ仕掛けの夢",
+        "releaseVersion": "6th ガラスを割れ!",
+        "releaseDate": "2017-10-25",
+        "lyricsUri": "https://www.uta-net.com/song/245282/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61U2Y917e9L._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=FKfNKxCQfGc&index=1&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "C"
+    },
+    {
+        "title": "バスルームトラベル",
+        "releaseVersion": "5th 風に吹かれても",
+        "releaseDate": "2017-10-25",
+        "lyricsUri": "https://www.uta-net.com/song/245281/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61Fm%2BC7MwKL._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=hYIwXttPLnE&index=4&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "D"
+    },
+    {
+        "title": "半分の記憶",
+        "releaseVersion": "5th 風に吹かれても",
+        "releaseDate": "2017-10-25",
+        "lyricsUri": "https://www.uta-net.com/song/245285/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61j-tJ1hgiL._AC_UL115_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=Xl-iDUt7U24&index=4&list=PL0eK3gfF1BbPgpvZw8ZvlneUlMU3GDemi",
+        "type": "None"
+    },
+    {
         "title": "風に吹かれても",
         "releaseVersion": "5th 風に吹かれても",
         "releaseDate": "2017-10-25",

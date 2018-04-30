@@ -1,5 +1,59 @@
 [
     {
+        "title": "シンクロニシティ",
+        "releaseVersion": "20th シンクロニシティ",
+        "releaseDate": "2018-4-25",
+        "lyricsUri": "https://www.uta-net.com/song/247989/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61KYJb54DwL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=f0wbnQw89J0&list=PLDUMgL1jIEfMcaJcz",
+        "type": "A"
+    },
+    {
+        "title": "Against",
+        "releaseVersion": "20th シンクロニシティ",
+        "releaseDate": "2018-4-25",
+        "lyricsUri": "https://www.uta-net.com/song/247988/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61KYJb54DwL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=go3i7VgsJjg&list=PLDUMgL1jIEfMcaJcz",
+        "type": "A"
+    },
+    {
+        "title": "雲になればいい",
+        "releaseVersion": "20th シンクロニシティ",
+        "releaseDate": "2018-4-25",
+        "lyricsUri": "https://www.uta-net.com/song/247986/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/61KYJb54DwL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "",
+        "type": "B"
+    },
+    {
+        "title": "スカウトマン",
+        "releaseVersion": "20th シンクロニシティ",
+        "releaseDate": "2018-4-25",
+        "lyricsUri": "https://www.uta-net.com/song/247984/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/611LPk4%2BOZL._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=Y9Qu8Z5ANnE&list=PLDUMgL1jIEfMcaJcz",
+        "type": "C"
+    },
+    {
+        "title": "トキトキメキメキ",
+        "releaseVersion": "20th シンクロニシティ",
+        "releaseDate": "2018-4-25",
+        "lyricsUri": "https://www.uta-net.com/song/247983/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/617ETFZoU0L._AC_UL70_SR70.69_.jpg",
+        "officialMovieUri": "https://www.youtube.com/watch?v=m-DngT-YioA&list=PLDUMgL1jIEfMcaJcz",
+        "type": "D"
+    },
+    {
+        "title": "言霊砲",
+        "releaseVersion": "20th シンクロニシティ",
+        "releaseDate": "2018-4-25",
+        "lyricsUri": "https://www.uta-net.com/song/247987/",
+        "coverPhotoUri": "https://images-na.ssl-images-amazon.com/images/I/617DCSxQPiL._AC_UL70_SR70.69__.jpg",
+        "officialMovieUri": "",
+        "type": "None"
+    },
+    {
         "title": "いつかできるから今日できる",
         "releaseVersion": "19th いつかできるから今日できる",
         "releaseDate": "2017-10-11",

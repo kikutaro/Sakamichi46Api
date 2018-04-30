@@ -168,6 +168,19 @@
             "http://www.keyakizaka46matomerabo.com/archives/cat_153676.html"
             ]
     },
+    "nagahamaneru" : {
+        "name": "長濱ねる",
+        "birthday": "1998-9-4",
+        "bloodType": "O",
+        "constellation": "おとめ座",
+        "profilePhotoUri": "http://cdn.keyakizaka46.com/images/14/fdc/25172f34968d99eeb6ec4443064bb/400_720_102400.jpg",
+        "blogUri" : "http://www.keyakizaka46.com/mob/news/diarKiji.php?site=k46o&ima=0938&cd=member&ct=22",
+        "tvUri" : "https://talent.thetv.jp/person/2000010077/program/",
+        "goodsUri" : "https://official-goods-store.jp/keyakizaka46/product/detail/376",
+        "matomeUri" : [
+            "http://www.keyakizaka46matomerabo.com/archives/cat_154643.html"
+            ]
+    },
     "habumizuho" : {
         "name": "土生瑞穂",
         "birthday": "1997-7-7",

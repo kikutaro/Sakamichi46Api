@@ -646,6 +646,214 @@
             ""
             ]
     },
+    "endousakura" : {
+    "name": "遠藤さくら",
+    "birthday": "2001-10-3",
+    "bloodType": "",
+    "constellation": "てんびん座",
+    "profilePhotoUri": "https://img.nogizaka46.com/www/member/img/endousakura_prof.jpg",
+    "blogUri" : "https://blog.nogizaka46.com/sakura.endou/",
+    "tvUri" : "",
+    "goodsUri" : "https://www.nogizaka46shop.com/category/197",
+    "matomeUri" : [
+        ""
+        ]
+    },
+    "kakiharuka" : {
+        "name": "賀喜遥香",
+        "birthday": "2001-8-8",
+        "bloodType": "A",
+        "constellation": "しし座",
+        "profilePhotoUri": "https://img.nogizaka46.com/www/member/img/kakiharuka_prof.jpg",
+        "blogUri" : "https://blog.nogizaka46.com/haruka.kaki/",
+        "tvUri" : "",
+        "goodsUri" : "https://www.nogizaka46shop.com/category/198",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "kakehashisayaka" : {
+        "name": "掛橋沙耶香",
+        "birthday": "2002-11-20",
+        "bloodType": "B",
+        "constellation": "さそり座",
+        "profilePhotoUri": "https://img.nogizaka46.com/www/member/img/kakehashisayaka_prof.jpg",
+        "blogUri" : "https://blog.nogizaka46.com/sayaka.kakehashi/",
+        "tvUri" : "",
+        "goodsUri" : "https://www.nogizaka46shop.com/category/199",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "kanagawasaya" : {
+        "name": "金川紗耶",
+        "birthday": "2001-10-31",
+        "bloodType": "O",
+        "constellation": "さそり座",
+        "profilePhotoUri": "https://img.nogizaka46.com/www/member/img/kanagawasaya_prof.jpg",
+        "blogUri" : "https://blog.nogizaka46.com/saya.kanagawa/",
+        "tvUri" : "",
+        "goodsUri" : "https://www.nogizaka46shop.com/category/200",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "kitagawayuri" : {
+        "name": "北川悠理",
+        "birthday": "2001-8-8",
+        "bloodType": "",
+        "constellation": "しし座",
+        "profilePhotoUri": "https://img.nogizaka46.com/www/member/img/kitagawayuri_prof.jpg",
+        "blogUri" : "https://blog.nogizaka46.com/yuri.kitagawa/",
+        "tvUri" : "",
+        "goodsUri" : "https://www.nogizaka46shop.com/category/201",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "kuromiharuka" : {
+        "name": "黒見明香",
+        "birthday": "2004-1-19",
+        "bloodType": "O",
+        "constellation": "やぎ座",
+        "profilePhotoUri": "https://img.nogizaka46.com/www/member/img/kuromiharuka_prof.jpg",
+        "blogUri" : "https://blog.nogizaka46.com/haruka.kuromi/",
+        "tvUri" : "",
+        "goodsUri" : "https://www.nogizaka46shop.com/category/272",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "satourika" : {
+        "name": "佐藤璃果",
+        "birthday": "2001-8-9",
+        "bloodType": "B",
+        "constellation": "しし座",
+        "profilePhotoUri": "https://img.nogizaka46.com/www/member/img/satourika_prof.jpg",
+        "blogUri" : "https://blog.nogizaka46.com/rika.satou/",
+        "tvUri" : "",
+        "goodsUri" : "https://www.nogizaka46shop.com/category/273",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "shibatayuna" : {
+        "name": "柴田柚菜",
+        "birthday": "2003-3-3",
+        "bloodType": "A",
+        "constellation": "うお座",
+        "profilePhotoUri": "https://img.nogizaka46.com/www/member/img/shibatayuna_prof.jpg",
+        "blogUri" : "https://blog.nogizaka46.com/yuna.shibata/",
+        "tvUri" : "",
+        "goodsUri" : "https://www.nogizaka46shop.com/category/202",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "seimiyarei" : {
+        "name": "清宮レイ",
+        "birthday": "2003-8-1",
+        "bloodType": "O",
+        "constellation": "しし座",
+        "profilePhotoUri": "https://img.nogizaka46.com/www/member/img/seimiyarei_prof.jpg",
+        "blogUri" : "https://blog.nogizaka46.com/rei.seimiya/",
+        "tvUri" : "",
+        "goodsUri" : "https://www.nogizaka46shop.com/category/203",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "tamuramayu" : {
+        "name": "田村真佑",
+        "birthday": "1999-1-12",
+        "bloodType": "A",
+        "constellation": "やぎ座",
+        "profilePhotoUri": "https://img.nogizaka46.com/www/member/img/tamuramayu_prof.jpg",
+        "blogUri" : "https://blog.nogizaka46.com/mayu.tamura/",
+        "tvUri" : "",
+        "goodsUri" : "https://www.nogizaka46shop.com/category/204",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "tsutsuiayame" : {
+        "name": "筒井あやめ",
+        "birthday": "2004-6-8",
+        "bloodType": "O",
+        "constellation": "ふたご座",
+        "profilePhotoUri": "https://img.nogizaka46.com/www/member/img/tsutsuiayame_prof.jpg",
+        "blogUri" : "https://blog.nogizaka46.com/ayame.tsutsui/",
+        "tvUri" : "",
+        "goodsUri" : "https://www.nogizaka46shop.com/category/205",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "hayakawaseira" : {
+        "name": "早川聖来",
+        "birthday": "2000-8-24",
+        "bloodType": "A",
+        "constellation": "おとめ座",
+        "profilePhotoUri": "https://img.nogizaka46.com/www/member/img/hayakawaseira_prof.jpg",
+        "blogUri" : "https://blog.nogizaka46.com/seira.hayakawa/",
+        "tvUri" : "",
+        "goodsUri" : "https://www.nogizaka46shop.com/category/206",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "hayashiruna" : {
+        "name": "林瑠奈",
+        "birthday": "2003-10-2",
+        "bloodType": "O",
+        "constellation": "てんびん座",
+        "profilePhotoUri": "https://img.nogizaka46.com/www/member/img/hayashiruna_prof.jpg",
+        "blogUri" : "https://blog.nogizaka46.com/runa.hayashi/",
+        "tvUri" : "",
+        "goodsUri" : "https://www.nogizaka46shop.com/category/274",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "matsuomiyu" : {
+        "name": "松尾美佑",
+        "birthday": "2004-1-3",
+        "bloodType": "O",
+        "constellation": "やぎ座",
+        "profilePhotoUri": "https://img.nogizaka46.com/www/member/img/matsuomiyu_prof.jpg",
+        "blogUri" : "https://blog.nogizaka46.com/miyu.matsuo/",
+        "tvUri" : "",
+        "goodsUri" : "https://www.nogizaka46shop.com/category/275",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "yakubomio" : {
+        "name": "矢久保美緒",
+        "birthday": "2002-8-14",
+        "bloodType": "B",
+        "constellation": "しし座",
+        "profilePhotoUri": "https://img.nogizaka46.com/www/member/img/yakubomio_prof.jpg",
+        "blogUri" : "https://blog.nogizaka46.com/mio.yakubo/",
+        "tvUri" : "",
+        "goodsUri" : "https://www.nogizaka46shop.com/category/207",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "yumikinao" : {
+        "name": "弓木奈於",
+        "birthday": "1999-2-3",
+        "bloodType": "A",
+        "constellation": "みずがめ座",
+        "profilePhotoUri": "https://blog.nogizaka46.com/nao.yumiki/",
+        "blogUri" : "https://img.nogizaka46.com/www/member/img/yumikinao_prof.jpg",
+        "tvUri" : "",
+        "goodsUri" : "https://www.nogizaka46shop.com/category/276",
+        "matomeUri" : [
+            ""
+            ]
+    },
     "ichikirena" : {
         "name": "市來玲奈",
         "birthday": "1996-1-22",

@@ -489,6 +489,163 @@
             "http://nogizaka46democracy.blog.jp/archives/cat_115624.html"
             ]
     },
+    "itouriria" : {
+        "name": "伊藤理々杏",
+        "birthday": "2002-10-8",
+        "bloodType": "B",
+        "constellation": "てんびん座",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_itou.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/riria.itou/",
+        "tvUri" : "",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/110",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "iwamotorenka" : {
+        "name": "岩本蓮加",
+        "birthday": "2004-2-2",
+        "bloodType": "B",
+        "constellation": "みずがめ座",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_iwamoto.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/renka.iwamoto/",
+        "tvUri" : "",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/111",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "umezawaminami" : {
+        "name": "梅澤美波",
+        "birthday": "1999-1-6",
+        "bloodType": "A",
+        "constellation": "やぎ座",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_umezawa.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/minami.umezawa/",
+        "tvUri" : "",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/112",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "oozonomomoko" : {
+        "name": "大園桃子",
+        "birthday": "1999-9-13",
+        "bloodType": "O",
+        "constellation": "おとめ座",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_oozono.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/momoko.oozono/",
+        "tvUri" : "",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/113",
+        "matomeUri" : [
+            ""
+            ],
+        "graduateDate" : "2021-9-4"
+    },
+    "kuboshiori" : {
+        "name": "久保史緒里",
+        "birthday": "2001-7-14",
+        "bloodType": "O",
+        "constellation": "かに座",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_kubo.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/shiori.kubo/",
+        "tvUri" : "",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/114",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "sakaguchitamami" : {
+        "name": "阪口珠美",
+        "birthday": "2001-11-10",
+        "bloodType": "A",
+        "constellation": "さそり座",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_sakaguchi.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/tamami.sakaguchi/",
+        "tvUri" : "",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/115",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "satoukaede" : {
+        "name": "佐藤楓",
+        "birthday": "1998-3-23",
+        "bloodType": "A",
+        "constellation": "おひつじ座",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_satou.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/kaede.satou/",
+        "tvUri" : "",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/116",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "nakamurareno" : {
+        "name": "中村麗乃",
+        "birthday": "2001-9-27",
+        "bloodType": "",
+        "constellation": "てんびん座",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_nakamura.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/reno.nakamura/",
+        "tvUri" : "",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/117",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "mukaihazuki" : {
+        "name": "向井葉月",
+        "birthday": "1999-8-23",
+        "bloodType": "A",
+        "constellation": "おとめ座",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_mukai.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/hazuki.mukai/",
+        "tvUri" : "",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/118",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "yamashitamiduki" : {
+        "name": "山下美月",
+        "birthday": "1999-7-26",
+        "bloodType": "O",
+        "constellation": "しし座",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_yamashita.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/mizuki.yamashita/",
+        "tvUri" : "",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/119",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "yoshidaayanokurisuthi" : {
+        "name": "吉田綾乃クリスティー",
+        "birthday": "1995-9-6",
+        "bloodType": "A",
+        "constellation": "おとめ座",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_yoshida.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/ayanochristie.yoshida/",
+        "tvUri" : "",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/120",
+        "matomeUri" : [
+            ""
+            ]
+    },
+    "yodayuuki" : {
+        "name": "与田祐希",
+        "birthday": "2000-5-5",
+        "bloodType": "O",
+        "constellation": "おうし座",
+        "profilePhotoUri": "http://www.nogizaka46.com/third/member/images/img_yoda.jpg",
+        "blogUri" : "http://blog.nogizaka46.com/yuuki.yoda/",
+        "tvUri" : "",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/121",
+        "matomeUri" : [
+            ""
+            ]
+    },
     "ichikirena" : {
         "name": "市來玲奈",
         "birthday": "1996-1-22",
